@@ -1,0 +1,27 @@
+{
+  "time": 0,
+  "sources": [
+    {
+      "title": "Сбер",
+      "year": 2020,
+      "file": "sber-2020",
+      "short": "SBER",
+      "color": "#519A2E"
+    },
+    {
+      "title": "Zoom",
+      "year": 2020,
+      "file": "zoom-2020",
+      "short": "ZM",
+      "color": "#498AF7",
+      "currency": "$"
+    },
+    {
+      "title": "Mc'DONALDS",
+      "year": 2020,
+      "file": "mcdonalds-2020",
+      "short": "MCD",
+      "color": "#B92823"
+    }
+  ]
+}
