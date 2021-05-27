@@ -1,0 +1,282 @@
+[
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/02/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 32091
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/03/20https://csvjson.com/csv2json",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 33582
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/05/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 33486
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/06/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 33326
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/09/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 32528
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/10/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 31358
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/11/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 32116
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/12/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 31781
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/13/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 31539
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/16/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 31065
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/17/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 33699
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/18/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 37064
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/19/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 37882
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/20/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 37394
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/23/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 39800
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/24/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 41868
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/25/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 43127
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/27/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 44545
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/30/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 43953
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/01/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 44163
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/02/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 42735
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/03/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 44260
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/04/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 43983
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/07/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 47200
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/08/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 47669
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/09/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 44582
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/10/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 45448
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/11/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 44230
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/14/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 47217
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/15/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 46461
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/16/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 45666
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/17/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 47584
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/18/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 46890
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/21/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 48600
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/22/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 48344
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/23/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 48467
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/24/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 48621
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/28/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 49100
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/29/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 49147
+  },
+  {
+    "<TICKER>": "MOEX.TSLA-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/30/20",
+    "<TIME>": "00:00:00",
+    "<CLOSE>": 51667
+  }
+]
