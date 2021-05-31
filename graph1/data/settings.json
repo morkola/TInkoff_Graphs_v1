@@ -1,5 +1,5 @@
 {
-  "time": 14,
+  "time": 0,
   "sources": [
     {
       "title": "Сбер",
@@ -35,7 +35,8 @@
       "year": 2020,
       "file": "zoom-2020",
       "short": "ZM",
-      "color": "#498AF7"
+      "color": "#498AF7",
+      "currency": "$"
     },
     {
       "title": "Netflix",
@@ -80,18 +81,12 @@
       "color": "#D03630"
     },
     {
-      "title": "ЛУКОЙЛ",
-      "year": 2018,
-      "file": "loil-2018",
-      "short": "LKCH",
-      "color": "#D03630"
-    },
-    {
       "title": "Tesla Motors",
       "year": 2020,
       "file": "tesla-2020",
       "short": "TSLA",
-      "color": "#D0343E"
+      "color": "#D0343E",
+      "currency": "$"
     }
   ]
 }

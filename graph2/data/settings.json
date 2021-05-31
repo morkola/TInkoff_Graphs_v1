@@ -3,10 +3,32 @@
   "sources": [
     {
       "title": "Сбер",
-      "year": 2020,
-      "file": "sber-2020",
+      "year": 2019,
+      "file": "sber-2019",
       "short": "SBER",
       "color": "#519A2E"
+    },
+    {
+      "title": "Газпром",
+      "year": 2019,
+      "file": "gazprom-2019",
+      "short": "GAZP",
+      "color": "#387AB9"
+    },
+    {
+      "title": "Дженерал Электрик",
+      "year": 2017,
+      "file": "ge-2017",
+      "short": "GE",
+      "color": "#4356A7",
+      "currency": "$"
+    },
+    {
+      "title": "Apple",
+      "year": 2018,
+      "file": "apple-2018",
+      "short": "AAPL",
+      "color": "#000000"
     },
     {
       "title": "Zoom",
@@ -17,11 +39,54 @@
       "currency": "$"
     },
     {
+      "title": "Netflix",
+      "year": 2020,
+      "file": "netflix-2020",
+      "short": "NFLX",
+      "color": "#211F1F "
+    },
+    {
+      "title": "Яндекс",
+      "year": 2019,
+      "file": "yandex-2019",
+      "short": "YNDX",
+      "color": "#EA3323"
+    },
+    {
       "title": "Mc'DONALDS",
       "year": 2020,
       "file": "mcdonalds-2020",
       "short": "MCD",
       "color": "#B92823"
+    },
+    {
+      "title": "BOEING",
+      "year": 2020,
+      "file": "boeing-2020",
+      "short": "BA",
+      "color": "#234E8D"
+    },
+    {
+      "title": "Аэрофлот",
+      "year": 2017,
+      "file": "aeroflot-2017",
+      "short": "AFLT",
+      "color": "#1D4993"
+    },
+    {
+      "title": "ЛУКОЙЛ",
+      "year": 2018,
+      "file": "loil-2018",
+      "short": "LKCH",
+      "color": "#D03630"
+    },
+    {
+      "title": "Tesla Motors",
+      "year": 2020,
+      "file": "tesla-2020",
+      "short": "TSLA",
+      "color": "#D0343E",
+      "currency": "$"
     }
   ]
 }
