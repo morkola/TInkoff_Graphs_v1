@@ -1,0 +1,282 @@
+[
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1480
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1490
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1470
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1494
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1519
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1523
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1498
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1459
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1517
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1548
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1561
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1566
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1561
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1567
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1616
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1650
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1680
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1690
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "11/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1691
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1700
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1722
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1731
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1751
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1745
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1731
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1714
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1700
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1693
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1720
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1733
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1771
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1753
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1795
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1786
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1836
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1830
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1800
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1794
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1789
+  },
+  {
+    "<TICKER>": "MOEX.HPQ-RM:FQBR",
+    "<PER>": "D",
+    "<DATE>": "12/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1820
+  }
+]

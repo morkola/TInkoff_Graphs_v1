@@ -1,92 +1,94 @@
 {
   "time": 30,
+  "bucksCourse": 75,
   "sources": [
     {
+      "title": "Mc'DONALDS",
+      "year": 2020,
+      "file": "MCD-RM_200101_201231",
+      "short": "MCD",
+      "color": "#B92823"
+    },
+    {
+      "title": "ВТБ",
+      "year": 2020,
+      "file": "VTBR_200101_201231",
+      "short": "VTBR",
+      "color": "#1D4993"
+    },
+    {
+      "title": "Mail.ru Group",
+      "year": 2020,
+      "file": "MAIL_200101_201231",
+      "short": "MAIL",
+      "color": "#1D4993"
+    },
+    {
       "title": "Сбер",
-      "year": 2019,
-      "file": "sber-2019",
+      "year": 2020,
+      "file": "SBER_200101_201231",
       "short": "SBER",
       "color": "#519A2E"
     },
     {
       "title": "Газпром",
       "year": 2019,
-      "file": "gazprom-2019",
+      "file": "GAZP_190101_191231",
       "short": "GAZP",
       "color": "#387AB9"
     },
     {
-      "title": "Дженерал Электрик",
-      "year": 2017,
-      "file": "ge-2017",
-      "short": "GE",
-      "color": "#4356A7",
-      "currency": "$"
-    },
-    {
-      "title": "Apple",
-      "year": 2018,
-      "file": "apple-2018",
-      "short": "AAPL",
-      "color": "#000000"
-    },
-    {
-      "title": "Zoom",
-      "year": 2020,
-      "file": "zoom-2020",
-      "short": "ZM",
-      "color": "#498AF7",
-      "currency": "$"
-    },
-    {
-      "title": "Netflix",
-      "year": 2020,
-      "file": "netflix-2020",
-      "short": "NFLX",
-      "color": "#211F1F "
-    },
-    {
-      "title": "Яндекс",
-      "year": 2019,
-      "file": "yandex-2019",
-      "short": "YNDX",
-      "color": "#EA3323"
-    },
-    {
-      "title": "Mc'DONALDS",
-      "year": 2020,
-      "file": "mcdonalds-2020",
-      "short": "MCD",
-      "color": "#B92823"
-    },
-    {
-      "title": "BOEING",
-      "year": 2020,
-      "file": "boeing-2020",
-      "short": "BA",
-      "color": "#234E8D"
-    },
-    {
-      "title": "Аэрофлот",
-      "year": 2017,
-      "file": "aeroflot-2017",
-      "short": "AFLT",
-      "color": "#1D4993"
-    },
-    {
       "title": "ЛУКОЙЛ",
-      "year": 2018,
-      "file": "loil-2018",
+      "year": 2019,
+      "file": "LKOH_190101_191231",
       "short": "LKCH",
       "color": "#D03630"
     },
     {
-      "title": "Tesla Motors",
+      "title": "Яндекс",
+      "year": 2019,
+      "file": "YNDX_190101_191231",
+      "short": "YNDX",
+      "color": "#EA3323"
+    },
+    {
+      "title": "Аэрофлот",
       "year": 2020,
-      "file": "tesla-2020",
-      "short": "TSLA",
-      "color": "#D0343E",
-      "currency": "$"
+      "file": "AFLT_200101_201231",
+      "short": "AFLT",
+      "color": "#1D4993"
+    },
+    {
+      "title": "AMD",
+      "year": 2019,
+      "file": "US1.AMD_190101_191231",
+      "isBucks": true,
+      "short": "AMD",
+      "color": "#D03630"
+    },
+    {
+      "title": "Bank of America",
+      "year": 2020,
+      "file": "US1.BAC_200101_201231",
+      "isBucks": true,
+      "short": "BAC",
+      "color": "#1D4993"
+    },
+    {
+      "title": "Apple",
+      "year": 2019,
+      "file": "US1.AAPL_190101_191231",
+      "isBucks": true,
+      "short": "AAPL",
+      "color": "#000000"
+    },
+    {
+      "title": "Starbucks",
+      "year": 2020,
+      "file": "US1.SBUX_200101_201231",
+      "isBucks": true,
+      "short": "SBUX",
+      "color": "green"
     }
   ]
 }

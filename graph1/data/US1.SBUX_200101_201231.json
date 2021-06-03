@@ -1,0 +1,1766 @@
+[
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 89.29
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.91
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.1
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 87.85
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.89
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 90.53
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 90.17
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 91.07
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 90.995
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 91.53
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 92.59
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 93.62
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 92.515
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 92.51
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 93.75
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 92.02
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.75
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.57
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 86.71
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 85.89
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "01/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 84.88
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 86.02
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.42
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 87.58
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 86.19
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 86.47
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 87.54
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 87.53
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.56
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 89.92
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 89.29
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 89.23
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 90.17
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.61
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 87.32
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 84.52
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.65
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.3
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "02/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.43
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.33
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.58
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.67
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.22
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.33
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.77
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.87
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 68.25
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 62.11
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.14
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.41
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.97
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 56.39
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 61.41
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 56.53
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 64.91
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 65.82
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 69.96
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 66.35
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 67.73
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "03/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 65.73
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 62.63
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 64.95
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 63.09
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 67.79
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 68.84
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.54
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.86
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.77
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.67
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.58
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.52
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.1
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.34
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.72
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.44
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.15
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.58
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.74
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.73
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.87
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "04/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.73
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.77
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.86
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.9
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.96
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.01
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.91
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.89
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.34
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.63
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.23
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.16
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.24
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.85
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.76
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.08
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.6
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.77
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.6
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.54
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "05/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.88
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.32
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.8
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.58
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.77
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.14
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 83.59
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.37
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.99
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.57
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.39
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.97
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.86
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.09
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.3
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.39
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.41
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.49
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.72
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.84
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.55
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.5
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "06/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.59
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.01
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.8
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.44
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.26
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.12
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.6
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.29
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.66
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.73
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.6
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.4
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.15
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.94
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.43
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.24
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.36
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.79
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.46
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.76
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.42
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.64
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "07/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.54
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.49
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.11
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.77
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.64
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.81
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.45
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.89
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.28
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.01
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.38
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.96
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.67
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.22
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.08
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.69
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.73
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.39
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 83.45
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 84.99
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "08/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 84.48
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 86.07
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.34
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 86.49
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 86.29
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 85.46
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 85.87
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 84.88
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 85.29
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 86.62
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 87.715
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.37
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 86.78
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 84.89
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 83.89
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 83.93
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.99
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 83.04
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 84.33
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 86.11
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 84.8
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "09/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 85.85
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 86.79
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 86.58
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.44
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 87.02
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.45
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 89.54
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 90.02
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 90.8
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 90.17
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 89.31
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.84
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.53
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 87.62
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.49
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.28
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 89.38
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 90.76
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 89.67
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 90.06
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 87.21
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.31
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "10/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 86.96
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 85.96
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.38
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 89.78
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 90.63
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 90.66
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 95.85
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 93.93
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 95.03
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 93.53
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 95.56
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.81
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.61
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.93
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.74
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 96.89
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.3
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.21
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.67
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "11/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.05
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.8
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.91
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.12
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.29
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.42
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.25
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.4
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 105.38
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.3
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 104.16
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.26
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.19
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.23
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.92
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.41
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.97
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.98
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 104.37
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 105.64
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 105.99
+  },
+  {
+    "<TICKER>": "US1.SBUX",
+    "<PER>": "D",
+    "<DATE>": "12/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 107.03
+  }
+]

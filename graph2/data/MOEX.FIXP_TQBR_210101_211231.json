@@ -1,0 +1,429 @@
+[
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 716.9
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 717
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 715.5
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 704.9
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 697.9
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 709.2
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 716
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 716.3
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 718
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 728
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 732.5
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 739.9
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 738.7
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 739
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 741.4
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "03/31/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 737
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 743
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 738.9
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 724.3
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 713
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 704.4
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 716.8
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 720
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 735.3
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 731.1
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 725
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 730.9
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 727.9
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 732.6
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 738
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 733
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 730
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 717
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 713.8
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 710.3
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 706
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 707.9
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "04/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 704.1
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 703
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 702.9
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 698.2
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 691.4
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 708.4
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 699.2
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 699.3
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 679.2
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 685.9
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 675
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 682
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 684.6
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 662.4
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 663.7
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 664.4
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 653.2
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 640
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 612
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 598
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "05/31/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 622.7
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "06/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 623.5
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "06/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 629.5
+  },
+  {
+    "<TICKER>": "MOEX.FIXP:TQBR",
+    "<PER>": "D",
+    "<DATE>": "06/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 642.5
+  }
+]
