@@ -7,35 +7,35 @@
       "year": 2019,
       "file": "MVID_190101_191231",
       "short": "MVID",
-      "color": "#404040"
+      "color": "darkred"
     },
     {
       "title": "X5 Retail Group",
       "year": 2020,
       "file": "FIVE_200101_201231",
       "short": "FIVE",
-      "color": "#404040"
+      "color": "green"
     },
     {
       "title": "Магнит",
       "year": 2020,
       "file": "MGNT_200101_201231",
       "short": "MGNT",
-      "color": "#404040"
+      "color": "darkred"
     },
     {
       "title": "Ozon",
       "year": 2020,
       "file": "MOEX.OZON_TQBR_200101_201231",
       "short": "OZON",
-      "color": "#404040"
+      "color": "blue"
     },
     {
       "title": "QIWI",
       "year": 2020,
       "file": "QIWI_200101_201231",
       "short": "QIWI",
-      "color": "#404040"
+      "color": "#c16c02"
     },
     {
       "title": "Mc'DONALDS",
@@ -78,7 +78,7 @@
       "file": "US1.GE_190101_191231",
       "isBucks": true,
       "short": "GE",
-      "color": "#404040"
+      "color": "darkblue"
     },
     {
       "title": "ЛУКОЙЛ",
@@ -115,7 +115,7 @@
       "file": "US1.EBAY_200101_201231",
       "isBucks": true,
       "short": "EBAY",
-      "color": "#404040"
+      "color": "darkblue"
     },
     {
       "title": "Bank of America",
@@ -123,28 +123,28 @@
       "file": "US1.BAC_200101_201231",
       "isBucks": true,
       "short": "BAC",
-      "color": "#1D4993"
+      "color": "mediumblue"
     },
     {
       "title": "Polymetal",
       "year": 2019,
       "file": "POLY_190101_191231",
       "short": "POLY",
-      "color": "#404040"
+      "color": "#606060"
     },
     {
       "title": "ПИК",
       "year": 2020,
       "file": "PIKK_200101_201231",
       "short": "PIKK",
-      "color": "#404040"
+      "color": "darkorange"
     },
     {
       "title": "TCS Group",
       "year": 2020,
       "file": "TCSG_200101_201231",
       "short": "TCSG",
-      "color": "#404040"
+      "color": "#1399a3"
     },
     {
       "title": "Apple",
@@ -168,7 +168,7 @@
       "file": "US1.VSAT_200101_201231",
       "isBucks": true,
       "short": "VSAT",
-      "color": "#404040"
+      "color": "darkblue"
     },
     {
       "title": "Nokia",
@@ -176,28 +176,28 @@
       "file": "US1.NOK_190101_191231",
       "isBucks": true,
       "short": "NOK",
-      "color": "#404040"
+      "color": "blue"
     },
     {
       "title": "HP",
       "year": 2020,
       "file": "MOEX.HPQ-RM_FQBR_200101_201231",
       "short": "HPQ",
-      "color": "#404040"
+      "color": "darkblue"
     },
     {
       "title": "КАМАЗ",
       "year": 2019,
       "file": "KMAZ_190101_191231",
       "short": "KMAZ",
-      "color": "#404040"
+      "color": "#2c1d6f"
     },
     {
       "title": "МТС",
       "year": 2020,
       "file": "MTSS_200101_201231",
       "short": "MTSS",
-      "color": "#404040"
+      "color": "darkred"
     },
     {
       "title": "British American Tabacco",
@@ -205,7 +205,7 @@
       "file": "US1.BTI_200101_201231",
       "isBucks": true,
       "short": "BTI",
-      "color": "#404040"
+      "color": "darkblue"
     },
     {
       "title": "Amazon.com, Inc.",
