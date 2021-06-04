@@ -1,14 +1,7 @@
 {
-  "time": 30,
+  "time": 25,
   "bucksCourse": 75,
   "sources": [
-    {
-      "title": "Mc'DONALDS",
-      "year": 2020,
-      "file": "MCD-RM_200101_201231",
-      "short": "MCD",
-      "color": "#B92823"
-    },
     {
       "title": "ВТБ",
       "year": 2020,
@@ -75,20 +68,27 @@
       "color": "#1D4993"
     },
     {
-      "title": "Apple",
-      "year": 2019,
-      "file": "US1.AAPL_190101_191231",
-      "isBucks": true,
-      "short": "AAPL",
-      "color": "#000000"
-    },
-    {
       "title": "Starbucks",
       "year": 2020,
       "file": "US1.SBUX_200101_201231",
       "isBucks": true,
       "short": "SBUX",
       "color": "green"
+    },
+    {
+      "title": "Ozon",
+      "year": 2020,
+      "file": "MOEX.OZON_TQBR_200101_201231",
+      "short": "OZON",
+      "color": "#404040"
+    },
+    {
+      "title": "eBay",
+      "year": 2020,
+      "file": "US1.EBAY_200101_201231",
+      "isBucks": true,
+      "short": "EBAY",
+      "color": "#404040"
     }
   ]
 }
