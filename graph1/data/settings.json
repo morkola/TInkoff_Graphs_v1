@@ -83,12 +83,12 @@
       "color": "#404040"
     },
     {
-      "title": "eBay",
-      "year": 2020,
-      "file": "US1.EBAY_200101_201231",
+      "title": "Intel Corp",
+      "year": 2019,
+      "file": "US1.INTC_190101_191231",
       "isBucks": true,
-      "short": "EBAY",
-      "color": "#404040"
+      "short": "INTC",
+      "color": "#006dbf"
     }
   ]
 }

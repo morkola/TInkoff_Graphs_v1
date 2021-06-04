@@ -206,6 +206,30 @@
       "isBucks": true,
       "short": "BTI",
       "color": "#404040"
+    },
+    {
+      "title": "Amazon.com, Inc.",
+      "year": 2019,
+      "file": "US1.AMZN_190101_191231",
+      "isBucks": true,
+      "short": "AMZN",
+      "color": "#222e3c"
+    },
+    {
+      "title": "NVIDIA Corp",
+      "year": 2019,
+      "file": "US1.NVDA_190101_191231",
+      "isBucks": true,
+      "short": "NVDA",
+      "color": "#70b11a"
+    },
+    {
+      "title": "Intel Corp",
+      "year": 2019,
+      "file": "US1.INTC_190101_191231",
+      "isBucks": true,
+      "short": "INTC",
+      "color": "#006dbf"
     }
   ]
 }
