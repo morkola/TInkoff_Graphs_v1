@@ -1,0 +1,1829 @@
+[
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/01/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 153.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/02/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 153.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/03/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 156.28
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/04/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 159.15
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/07/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 159.15
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/08/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.26
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/09/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 160.24
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 160.2
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 161
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 160.48
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.15
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 156.9
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 157.1
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 159.2
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.3
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 159.9
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 160.9
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.82
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 160.56
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.95
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 165.4
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "01/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.82
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/01/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.33
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/04/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.2
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/05/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 164.25
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/06/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.21
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/07/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 160.39
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/08/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 159.8
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 161.29
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.68
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 159.27
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 155.15
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 159.04
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 156.43
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.03
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.43
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 153.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.64
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.6
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 155.36
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 156.4
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "02/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.99
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/01/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 156.71
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/04/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.4
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/05/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 153.2
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/06/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.2
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/07/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 151.9
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/08/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 151.9
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 151.6
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 151.64
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 153.3
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 152.68
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.56
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 155.84
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 155.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 156.09
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 155.33
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 152.29
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 152.29
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 151.12
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 149.49
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 149.98
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "03/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 149.61
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/01/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.53
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/02/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 155
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/03/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 156.99
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/04/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.89
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/05/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.6
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/08/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 160.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/09/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.7
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.88
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.04
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 159.12
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.33
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.24
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 164
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 161.79
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.57
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.42
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 160.57
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 159.31
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 161
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.93
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "04/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.95
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/01/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.95
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/02/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 165.71
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/03/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 166.31
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/06/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 165.45
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/07/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 164.21
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/08/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.57
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/09/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.57
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.61
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 189.67
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 195.61
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 202.7
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 198.89
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 200.8
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 207.8
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 208.1
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 208.86
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 204.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 206.2
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 203.13
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 207.14
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 213.1
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "05/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 215.1
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/03/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 235.51
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/04/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 230.16
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/05/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 230.01
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/06/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 231.45
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/07/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 230.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 232.1
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 234.86
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 234.86
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 234.44
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 231.51
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 229.81
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 232.13
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 232.46
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 232.52
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 229.09
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 232.38
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 232.09
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 233.1
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 232.6
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "06/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 232.83
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/01/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 245.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/02/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 246.65
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/03/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 251.6
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/04/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 255.35
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/05/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 250.89
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/08/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 248.51
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/09/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 250.17
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 250.21
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 247.2
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 245.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 240.3
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 238.01
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 220.19
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 218.3
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 216
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 217.12
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 217.39
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 212
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 219
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 234.23
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 236.73
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 237.1
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "07/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 236.9
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/01/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 234.28
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/02/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 227.91
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/05/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 223.61
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/06/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 226.76
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/07/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 227.67
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/08/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 231.21
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/09/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 229.96
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 230.24
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 229.87
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 227.1
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 227.15
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 224.71
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 226.8
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 231.54
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 231.22
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 232.06
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 229.35
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 228.9
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 227
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 228.48
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 233.2
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "08/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 232.15
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/02/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 233.67
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/03/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 231.02
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/04/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 233.71
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/05/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 236.18
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/06/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 234.49
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/09/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 234.85
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 233
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 235.07
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 232.88
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 232.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 234.88
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 233.58
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 233.46
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 230.52
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 230.41
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 230.36
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 227.7
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 228.43
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 231.97
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 229.01
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "09/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 225.9
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/01/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 226.49
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/02/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 223.6
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/03/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 223.1
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/04/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 221.66
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/07/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 226.36
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/08/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 223.2
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/09/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 223.18
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 224.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 227.37
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 226
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 226
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 227.7
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 228
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 228
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 228.54
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 235.36
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 236.2
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 243.94
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 246.71
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 244.4
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 253.1
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 261.6
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "10/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 260
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/01/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 263.79
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/04/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 263.79
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/05/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 263
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/06/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 266.98
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/07/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 270.74
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/08/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 266
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 260.4
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 257.25
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 251.8
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 248.34
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 248.01
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 246.15
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 248.01
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 248
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 254.35
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 251.99
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 255.2
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 254
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 253.89
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 254
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "11/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 257.54
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/02/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 254.05
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/03/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 247.93
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/04/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 248.93
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/05/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 246.36
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/06/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 247.83
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/09/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 248.7
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 246.9
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 247.34
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 250.48
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 249.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 250.78
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 252.05
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 251.29
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 251.4
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 255.5
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 255
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 254.87
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 253.25
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 254.1
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 257.11
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 256.4
+  },
+  {
+    "<TICKER>": "GAZP RX",
+    "<PER>": "D",
+    "<DATE>": "12/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 256.4
+  }
+]

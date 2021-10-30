@@ -5,7 +5,7 @@
     {
       "title": "М.Видео",
       "year": 2019,
-      "file": "MVID_190101_191231",
+      "file": "MVID_RX_2019",
       "short": "MVID",
       "color": "darkred"
     },
@@ -68,29 +68,28 @@
     {
       "title": "Газпром",
       "year": 2019,
-      "file": "GAZP_190101_191231",
+      "file": "GAZP_US_2019",
       "short": "GAZP",
       "color": "#387AB9"
     },
     {
       "title": "General Electric Company",
       "year": 2019,
-      "file": "US1.GE_190101_191231",
-      "isBucks": true,
+      "file": "GE_US_2019",
       "short": "GE",
       "color": "darkblue"
     },
     {
       "title": "ЛУКОЙЛ",
       "year": 2019,
-      "file": "LKOH_190101_191231",
+      "file": "LKOH_RX_2019",
       "short": "LKOH",
       "color": "#D03630"
     },
     {
       "title": "Yandex",
       "year": 2019,
-      "file": "YNDX_190101_191231",
+      "file": "YNDX_RX_2019",
       "short": "YNDX",
       "color": "#EA3323"
     },
@@ -104,8 +103,7 @@
     {
       "title": "AMD",
       "year": 2019,
-      "file": "US1.AMD_190101_191231",
-      "isBucks": true,
+      "file": "AMD_US_2019",
       "short": "AMD",
       "color": "#D03630"
     },
@@ -128,7 +126,7 @@
     {
       "title": "Polymetal",
       "year": 2019,
-      "file": "POLY_190101_191231",
+      "file": "POLY_RX_2019",
       "short": "POLY",
       "color": "#606060"
     },
@@ -149,8 +147,7 @@
     {
       "title": "Apple",
       "year": 2019,
-      "file": "US1.AAPL_190101_191231",
-      "isBucks": false,
+      "file": "AAPL_US_2019",
       "short": "AAPL",
       "color": "#000000"
     },
@@ -165,8 +162,7 @@
     {
       "title": "Nokia",
       "year": 2019,
-      "file": "US1.NOK_190101_191231",
-      "isBucks": true,
+      "file": "NOK_US_2019",
       "short": "NOK",
       "color": "blue"
     },
@@ -181,7 +177,7 @@
     {
       "title": "КАМАЗ",
       "year": 2019,
-      "file": "KMAZ_190101_191231",
+      "file": "KMAZ_RX_2019",
       "short": "KMAZ",
       "color": "#2c1d6f"
     },
@@ -195,24 +191,21 @@
     {
       "title": "Amazon.com",
       "year": 2019,
-      "file": "US1.AMZN_190101_191231",
-      "isBucks": true,
+      "file": "AMZN_US_2019",
       "short": "AMZN",
       "color": "#222e3c"
     },
     {
       "title": "NVIDIA",
       "year": 2019,
-      "file": "US1.NVDA_190101_191231",
-      "isBucks": true,
+      "file": "NVDA_US_2019",
       "short": "NVDA",
       "color": "#70b11a"
     },
     {
       "title": "Intel Corporation",
       "year": 2019,
-      "file": "US1.INTC_190101_191231",
-      "isBucks": true,
+      "file": "INTC_US_2019",
       "short": "INTC",
       "color": "#006dbf"
     }
