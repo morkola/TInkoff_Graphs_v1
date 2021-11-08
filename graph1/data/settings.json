@@ -12,14 +12,14 @@
     {
       "title": "ГДР X5 RetailGroup",
       "year": 2020,
-      "file": "FIVE_200101_201231",
+      "file": "FIVE_RX_2020",
       "short": "FIVE",
       "color": "green"
     },
     {
       "title": "Магнит",
       "year": 2020,
-      "file": "MGNT_200101_201231",
+      "file": "MGNT_RX_2020",
       "short": "MGNT",
       "color": "darkred"
     },
@@ -33,35 +33,35 @@
     {
       "title": "QIWI",
       "year": 2020,
-      "file": "QIWI_200101_201231",
+      "file": "QIWI_RX_2020",
       "short": "QIWI",
       "color": "#c16c02"
     },
     {
       "title": "Mc'DONALDS",
       "year": 2020,
-      "file": "MCD-RM_200101_201231",
+      "file": "MCD_US_2020",
       "short": "MCD",
       "color": "#B92823"
     },
     {
       "title": "Банк ВТБ",
       "year": 2020,
-      "file": "VTBR_200101_201231",
+      "file": "VTBR_RX_2020",
       "short": "VTBR",
       "color": "#1D4993"
     },
     {
       "title": "MAIL.RU",
       "year": 2020,
-      "file": "MAIL_200101_201231",
+      "file": "MAIL_LI_2020",
       "short": "MAIL",
       "color": "#1D4993"
     },
     {
       "title": "Сбер Банк",
       "year": 2020,
-      "file": "SBER_200101_201231",
+      "file": "SBER_RX_2020",
       "short": "SBER",
       "color": "#519A2E"
     },
@@ -96,7 +96,7 @@
     {
       "title": "Аэрофлот",
       "year": 2020,
-      "file": "AFLT_200101_201231",
+      "file": "AFLT_RX_2020",
       "short": "AFLT",
       "color": "#1D4993"
     },
@@ -110,16 +110,14 @@
     {
       "title": "eBay",
       "year": 2020,
-      "file": "US1.EBAY_200101_201231",
-      "isBucks": true,
+      "file": "EBAY_US_2020",
       "short": "EBAY",
       "color": "darkblue"
     },
     {
       "title": "Bank of America Corp",
       "year": 2020,
-      "file": "US1.BAC_200101_201231",
-      "isBucks": true,
+      "file": "BAC_US_2020",
       "short": "BAC",
       "color": "mediumblue"
     },
@@ -133,14 +131,14 @@
     {
       "title": "ПИК",
       "year": 2020,
-      "file": "PIKK_200101_201231",
+      "file": "PIKK_RX_2020",
       "short": "PIKK",
       "color": "darkorange"
     },
     {
       "title": "TCS Group",
       "year": 2020,
-      "file": "TCSG_200101_201231",
+      "file": "TCSG_RX_2020",
       "short": "TCSG",
       "color": "#1399a3"
     },
@@ -154,8 +152,7 @@
     {
       "title": "Starbucks Corporation",
       "year": 2020,
-      "file": "US1.SBUX_200101_201231",
-      "isBucks": true,
+      "file": "SBUX_US_2020",
       "short": "SBUX",
       "color": "green"
     },
@@ -169,8 +166,7 @@
     {
       "title": "Hewlett Packard",
       "year": 2020,
-      "file": "US1.HPQ_200101_201231",
-      "isBucks": true,
+      "file": "HPQ_US_2020",
       "short": "HPQ",
       "color": "darkblue"
     },
@@ -184,7 +180,7 @@
     {
       "title": "МТС",
       "year": 2020,
-      "file": "MTSS_200101_201231",
+      "file": "MTSS_RX_2020",
       "short": "MTSS",
       "color": "darkred"
     },

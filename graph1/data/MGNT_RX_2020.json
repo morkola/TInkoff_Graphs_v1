@@ -1,0 +1,1836 @@
+[
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3425
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3425
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3445.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3416
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3416
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3427
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3348
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3319.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3345
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3339
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3440
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3625
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3623
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3855
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3840
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3750
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3702.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3796
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3708.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3751
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3819.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3830
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "01/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3727
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3720.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3750
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3783.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3713
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3640
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3564.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3575
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3760
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3750
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3669
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3697
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3620
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3640.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3641
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3625
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3625
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3503
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3529
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3345
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "02/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3160.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3201
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3150
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3130
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3121
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 2984
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 2984
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 2669.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 2705
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 2337
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 2501
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 2636
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 2765.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 2780
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 2950
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3002.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 2986
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3020
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3070
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3249.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3140
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3128.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "03/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3202.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3140
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3190
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3189
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3262
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3255
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3372.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3318
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3321.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3286
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3362
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3244.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3196.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3236
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3165
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3142.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3205
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3287
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3215.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3356
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3380
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3467
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "04/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3690
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3690
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3760
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3702
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3690
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3694
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3663
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3663
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3575.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3631
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3508
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3544.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3619.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3657
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3640
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3600
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3616
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3635
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3615.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3744.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3827
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "05/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3740
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3832
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3899.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3869
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3836
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3846
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3950
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3929
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3995
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4004
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4004
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3985.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3950
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3945
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3820
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3980
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4078
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4115
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4115
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4110
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4180.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4156.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "06/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4035
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4035
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4202
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4222
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4332
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4242
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4225
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4337
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4307
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4291
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4259.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4298
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4303.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4302
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4476.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4648
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4690
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4720
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4782.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4752
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4768
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4698
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4675.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "07/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4586
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4614
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4658.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4632
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4606.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4618
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4611
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4645
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4614.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4731
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4763.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4688
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4690.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4671.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4561.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4523
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4600
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4642.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4666
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4728
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4581.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "08/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4474.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4497.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4564.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4589
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4585
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4558.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4538
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4456
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4475
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4663.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4671.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4724.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4710
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4863
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4805
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4749
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4930
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4989.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5033
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5025
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5044
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4965.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "09/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4956
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4896
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4906.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4895
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4879
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4766.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4722
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4690.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4859
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4837
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4912
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4741
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4782
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4914.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4910.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4863
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4900.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4855.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4799.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4784
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4702
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4659
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "10/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4706
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4829
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4770
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4770
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4741.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4796
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4893.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4945
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4780
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4910
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4932
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4982
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4891.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4980
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5012.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4933
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4945
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4910
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4891.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4971.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4985.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "11/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4979
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5019.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4995
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5008
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4992.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5008
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5040.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5384
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5384.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5381
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5512
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5492.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5432
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5400.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5427
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5331
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5365
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5332
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5398.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5462
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5570
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5674
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5668.5
+  },
+  {
+    "<TICKER>": "MGNT RX",
+    "<PER>": "D",
+    "<DATE>": "12/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5668.5
+  }
+]

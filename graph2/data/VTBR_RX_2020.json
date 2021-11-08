@@ -1,0 +1,1836 @@
+[
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0459
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0459
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04624
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04611
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04611
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.046525
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.047075
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0476
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04806
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04726
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.046805
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.047825
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.048035
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.048015
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04981
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04897
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0485
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.048
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04682
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0472
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04754
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.047045
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "01/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0464
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04615
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.047255
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04768
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.048075
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04809
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0474
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04744
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04787
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.048
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.047885
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.048095
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.047205
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04747
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04751
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04796
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04796
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.047295
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04723
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04539
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "02/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04333
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.043
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.043255
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.043155
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04307
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04122
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.04122
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03745
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.036355
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03112
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.031575
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03015
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.029735
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.02814
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03057
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0315
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0316
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03288
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0328
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0325
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0311
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03165
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "03/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0326
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03203
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.032175
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03208
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03367
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03437
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0364
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03659
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0359
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035415
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03324
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0343
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.033805
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0331
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03427
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.033705
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0339
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0345
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035195
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "04/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0349
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0349
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03486
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035475
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03531
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03553
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035375
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035375
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035185
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034205
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03431
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034215
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03499
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03483
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03521
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03496
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03467
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035005
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0351
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03539
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03597
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "05/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03631
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03664
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.037175
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03798
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03715
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.037595
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.037695
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0377
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03758
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.036745
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.036745
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.036845
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03688
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0365
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0359
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035255
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035435
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03554
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03554
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0356
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03515
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035485
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "06/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03505
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03505
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03541
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03567
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03608
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035735
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03551
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035175
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035235
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034915
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034995
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03481
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0348
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0371
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03807
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03789
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.037465
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03795
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03921
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.038905
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03924
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03861
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "07/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.038755
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.040125
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.040385
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03855
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03783
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03672
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.036755
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03693
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03768
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03764
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03772
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03761
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.037355
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.037445
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03697
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03636
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.036315
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03585
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.036065
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03609
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03595
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "08/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035375
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.036065
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035555
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03508
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035335
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03521
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034825
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03503
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03515
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03542
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0358
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.036185
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035795
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035705
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03549
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034855
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034635
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034355
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034275
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034225
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034495
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03458
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "09/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034475
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03425
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.033835
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03375
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03379
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.033405
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.033395
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.033205
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03323
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03304
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.033225
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.032655
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03202
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.031725
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03389
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0336
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03464
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034785
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.034115
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.033435
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.032225
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03276
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "10/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.032665
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.032865
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.032955
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.032955
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.033645
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.033605
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03439
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03464
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03414
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.035935
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0366
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0373
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0362
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03605
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0361
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.036545
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03653
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.036935
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03682
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.037
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.037765
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "11/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03721
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0377
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03797
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.037755
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.037835
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03749
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03748
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03732
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03803
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.037945
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03783
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03765
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0382
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03823
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03825
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03709
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03732
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0381
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.037825
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.038015
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.038
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.03789
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0377
+  },
+  {
+    "<TICKER>": "VTBR RX",
+    "<PER>": "D",
+    "<DATE>": "12/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.0377
+  }
+]
