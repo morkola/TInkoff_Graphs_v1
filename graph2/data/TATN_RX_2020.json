@@ -1,0 +1,2564 @@
+[
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 759.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 759.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 776.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 776.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 776.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 776
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 776
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 788
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 806.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 801
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 801
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 801
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 806
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 811.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 807
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 808.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 809.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 809.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 809.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 830
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 825
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 818
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 800
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 795.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 795.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 795.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 779.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 779
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 780
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 777
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "1/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 761
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 761
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 761
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 751.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 764.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 765.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 762.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 752
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 752
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 752
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 741
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 753.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 768.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 763
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 763.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 763.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 763.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 766.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 750.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 765.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 764.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 755
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 755
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 755
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 755
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 721.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 724.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 691.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 671.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "2/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 671.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 671.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 667.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 682.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 695.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 696.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 658.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 658.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 658.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 658.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 530
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 527.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 469.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 458.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 458.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 458.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 442.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 422.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 385
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 455.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 515.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 515.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 515.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 503.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 561.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 562.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 560
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 530
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 530
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 530
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 521.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "3/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 552.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 544
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 585
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 600.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 600.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 600.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 608.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 583.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 598
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 606.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 601.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 601.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 601.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 587
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 554.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 510.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 510.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 516.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 516.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 516.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 488.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 476.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 514.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 532.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 521.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 521.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 521.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 516.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 529.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 558.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "4/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 544.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 551.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 541.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 544
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 546.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 546.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 546.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 546.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 541.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 517.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 522.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 514.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 514.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 514.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 549
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 549.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 566.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 540
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 544
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 544
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 544
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 557
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 559.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 559.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 565
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 532
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 532
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "5/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 532
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 542.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 560.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 569
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 559.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 569.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 569.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 569.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 578.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 586.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 595.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 577
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 577
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 577
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 577
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 581.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 581
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 565.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 576
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 586.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 586.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 586.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 589
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 588.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 588.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 584.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 572.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 572.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 572.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 568.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "6/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 556.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 556.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 567.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 568
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 568
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 568
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 570.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 565.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 560.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 552.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 562.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 562.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 562.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 546.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 547.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 553.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 553.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 554.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 560.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 560.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 559
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 564.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 564.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 564.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 560.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 557
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 563
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 555.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "7/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 554.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 554.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 554.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 547.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 546.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 558.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 561.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 559.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 559.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 559.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 559.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 581
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 605.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 604.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 608.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 608.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 608.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 600.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 597.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 590.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 572.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 566.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 566.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 566.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 570.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 571
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 571.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 561.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 556.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 556.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 556.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "8/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 547.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 549.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 545
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 532.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 536.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 536.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 536.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 533.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 523.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 529.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 528
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 537.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 537.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 537.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 538.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 552.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 531.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 517.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 507.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 507.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 507.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 480.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 479.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 460
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 467.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 464
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 464
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 464
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 474.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 464.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "9/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 463.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 458.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 453.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 453.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 453.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 473.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 472.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 468.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 464.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 459
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 459
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 459
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 453.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 442.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 443.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 434.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 429.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 429.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 429.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 415.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 421.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 416.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 424.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 438.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 438.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 438.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 430.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 420.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 401
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 405.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 412.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "10/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 412.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 412.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 419.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 430.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 430.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 442.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 447.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 447.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 447.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 479.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 501
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 517
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 499.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 500.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 500.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 500.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 512.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 506
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 511.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 506.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 511
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 511
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 511
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 520.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 524.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 537.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 524.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 511.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 511.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 511.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "11/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 492.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 493.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 509.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 496
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 507.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 507.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 507.7
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 500.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 497.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 494.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 507.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 508.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 508.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 508.8
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 514.6
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 514.4
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 512.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 513.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 511
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 511
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 511
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 498
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 505
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 504.3
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 507.1
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 505.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 505.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 505.5
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 507
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 512.9
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 512.2
+  },
+  {
+    "<TICKER>": "TATN RX",
+    "<PER>": "D",
+    "<DATE>": "12/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 512.2
+  }
+]

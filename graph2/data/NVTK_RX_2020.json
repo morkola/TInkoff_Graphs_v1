@@ -1,0 +1,2564 @@
+[
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1262
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1262
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1264
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1264
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1264
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1271
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1271
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1325.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1339.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1306.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1306.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1306.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1305.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1259
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1260
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1264
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1255.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1255.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1255.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1243
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1242
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1196.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1212.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1202
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1202
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1202
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1176.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1168.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1199
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1193.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "1/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1155.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1155.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1155.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1140
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1143.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1153.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1097.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1072
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1072
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1072
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1047.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1060
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1050
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1054
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1051.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1051.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1051.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1092
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1094.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1117
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1106.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1094.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1094.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1094.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1094.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1048
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1039.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 998.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 964.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "2/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 964.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 964.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 997.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1007.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 998
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 988
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 964.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 964.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 964.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 964.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 963
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 916.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 801
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 806
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 806
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 806
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 824.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 788.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 715.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 832.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 781.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 781.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 781.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 806
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 864
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 922.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 918.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 869.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 869.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 869.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 866
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "3/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 917.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 891
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 953
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 987
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 987
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 987
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1006.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1038
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1053.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1073
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1062.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1062.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1062.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1024
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1007.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 952
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 938.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 957.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 957.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 957.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 971.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 955
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 981.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 976.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 973.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 973.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 973.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 993.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1034.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1040.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "4/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1037.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1037.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1037.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1037.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1030
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1059.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1060
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1028
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1032
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1032
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1032
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1032
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1028
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1002.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1003
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1008.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1008.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1008.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1060
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1077
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1140
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1093
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1078.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1078.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1078.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1096
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1093
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1068
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1084
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1029.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1029.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "5/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1029.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1039.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1066
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1066.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1067.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1086.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1086.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1086.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1080
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1078
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1092
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1068.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1068.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1068.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1068.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1060
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1075.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1072.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1075.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1079
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1079
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1079
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1079
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1076.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1076.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1064
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1045
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1045
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1045
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1040
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "6/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1022
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1022
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1043
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1048.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1048.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1048.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1047.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1034.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1045.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1025.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1039
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1039
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1039
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1036.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1059.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1069.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1067.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1086.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1086.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1086.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1094
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1099
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1098.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1082.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1093
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1093
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1093
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1082
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1080
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1089.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1080.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "7/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1089.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1089.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1089.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1065.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1066.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1096.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1108.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1104.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1104.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1104.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1107.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1115
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1153.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1150
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1180.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1180.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1180.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1162.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1154.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1147.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1127.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1120.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1120.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1120.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1141.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1138
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1138.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1110.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1096.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1096.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1096.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "8/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1103
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1106
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1097
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1095
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1130.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1130.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1130.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1113.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1102.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1092
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1078
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1077.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1077.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1077.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1091.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1118.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1114.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1125
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1122
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1122
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1122
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1092
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1087.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1054
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1063
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1081.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1081.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1081.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1092
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1073.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "9/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1064
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1050.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1060.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1060.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1060.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1070.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1107.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1097.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1090.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1090.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1090.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1090.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1099.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1077
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1089
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1067
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1069.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1069.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1069.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1066.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1062.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1043.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1034.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1058.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1058.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1058.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1037.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1032
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 991.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 985.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 951.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "10/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 951.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 951.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1026
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1030.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1030.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1063
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1094.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1094.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1094.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1159
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1188.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1193
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1198
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1240.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1240.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1240.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1253
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1248.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1261.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1246.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1264
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1264
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1264
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1257.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1269.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1267.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1251
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1244.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1244.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1244.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "11/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1199.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1226.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1222.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1193.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1224.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1224.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1224.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1216.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1198.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1177.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1236.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1224.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1224.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1224.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1215
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1201
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1191
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1189.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1239
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1239
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1239
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1200.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1222.6
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1217.8
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1209.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1220.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1220.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1220.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1232.4
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1245.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1259.2
+  },
+  {
+    "<TICKER>": "NVTK RX",
+    "<PER>": "D",
+    "<DATE>": "12/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 1259.2
+  }
+]

@@ -1,0 +1,2557 @@
+[
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 62.66
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 62.66
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 62.66
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 61.56
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 64.21
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 67.62
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 67.18
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 66.78
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 66.78
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 66.78
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.97
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.65
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.36
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.01
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.19
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.19
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.19
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.19
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.12
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.27
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.74
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.34
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.34
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.34
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.91
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.24
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 65.8
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.37
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.02
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.02
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "1/31/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.02
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.77
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.46
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.93
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.04
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.52
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.52
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.52
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.81
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.88
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.73
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.48
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.71
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.71
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.71
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.71
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.24
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.04
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.9
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.37
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.37
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.37
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 83.14
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.01
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.74
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.56
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.72
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.72
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "2/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.72
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.53
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.27
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.61
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.16
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.3
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.3
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.3
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.44
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.82
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.69
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.56
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.63
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.63
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.63
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 84.8
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.6
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.66
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.87
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.21
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.21
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.21
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.03
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.14
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.25
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.74
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.55
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.55
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.55
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.87
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.69
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "3/31/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.45
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.56
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.56
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.56
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.56
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.12
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.17
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.73
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.08
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.49
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.49
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.49
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.7
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.9
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.29
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.4
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.04
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.04
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.04
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.88
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.07
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.98
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.25
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 84.15
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 84.15
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 84.15
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 84.84
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.82
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.41
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.86
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "4/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.12
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.12
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.12
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.13
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.7
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 106.36
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 106.17
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 108.92
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 108.92
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 108.92
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 104.23
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 104.17
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.95
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.29
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.98
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.98
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.98
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.88
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.79
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.77
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.38
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.51
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.51
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.51
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.9
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.51
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 107.45
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.82
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.24
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.24
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.24
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "5/31/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.24
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.13
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.02
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.03
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.02
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.02
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.02
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 104.87
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 104.15
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 105.18
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 104.54
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 108.64
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 108.64
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 108.64
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.58
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.57
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.4
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 108.21
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 104.5
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 104.5
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 104.5
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 107.44
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.39
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.25
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.12
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.41
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.41
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.41
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.06
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.65
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "6/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.52
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.8
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.8
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.8
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.8
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.63
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.81
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.45
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.61
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.06
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.62
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.72
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.26
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.26
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.26
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.56
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.29
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.98
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 131.93
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 131.29
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 131.29
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 131.29
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 131.82
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 128.69
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 131.25
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.05
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 135.81
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "7/31/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 135.81
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 135.81
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.64
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 137.09
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 140.43
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 141.91
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 140.81
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 140.81
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 140.81
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 140.69
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 141.31
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 142.2
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 144.08
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.59
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.59
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.59
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.45
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 138.75
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 140.2
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.17
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 141.93
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 141.93
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 141.93
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 142.87
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 145.06
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.81
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.1
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.09
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.09
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.09
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.4
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "8/31/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 142.82
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.36
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 138.57
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.69
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.69
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.69
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.69
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.28
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 138.96
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 141.53
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 144.11
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 144.11
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 144.11
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 137.72
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 149.38
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 153.68
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 157.82
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 155.18
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 155.18
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 155.18
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 151.72
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 152.47
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 155.73
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 156.3
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 156.3
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 156.3
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 153.59
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 150.63
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 149.81
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "9/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.48
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 141.13
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 141.13
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 141.13
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.07
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.92
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 138.31
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.54
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 130.4
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 130.4
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 130.4
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 125.62
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 130.09
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 132.47
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.62
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 137.19
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 137.19
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 137.19
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.15
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 142.4
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 135.93
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 148.6
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 149.76
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 149.76
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 149.76
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 155.64
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.24
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 151.88
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 156.53
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 161.45
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 161.45
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "10/31/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 161.45
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 167.73
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 167.4
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 173.3
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 177.42
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 180.17
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 180.17
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 180.17
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 176.54
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 178.5
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 174.18
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 176.19
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 180.57
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 180.57
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 180.57
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 177.5
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 180.45
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 176.16
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 176.98
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 175.5
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 175.5
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 175.5
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 175.54
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 170.74
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 171.65
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 171.65
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 168.04
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 168.04
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 168.04
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 168.6
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "11/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 164.02
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.74
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 166.15
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.38
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.38
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.38
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.9
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 166.94
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 166.75
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 161.72
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.7
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.7
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.7
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 156.91
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 153.57
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 151.33
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.56
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.12
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.12
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.12
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 131.48
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 138.93
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.78
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 123.53
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 123.53
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 123.53
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 123.53
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 127.83
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 127.35
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 129.95
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 128.37
+  },
+  {
+    "<TICKER>": "CROX US",
+    "<PER>": "D",
+    "<DATE>": "12/31/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 128.22
+  }
+]

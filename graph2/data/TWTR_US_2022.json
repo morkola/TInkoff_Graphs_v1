@@ -1,0 +1,226 @@
+[
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/1/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.22
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/2/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.22
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/3/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.66
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/4/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 40.85
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/5/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 39.5
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/6/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 39.59
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/7/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 39.67
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/8/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 39.67
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/9/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 39.67
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/10/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 39.97
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/11/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 40.66
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/12/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 40.25
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/13/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 38.7
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/14/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 38.44
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/15/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 38.44
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/16/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 38.44
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/17/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 38.44
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/18/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 37.3
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/19/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 37.35
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/20/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 37.28
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/21/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.82
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/22/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.82
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/23/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.82
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/24/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.06
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/25/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.17
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/26/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 33.62
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/27/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 33.84
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/28/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.27
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/29/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.27
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/30/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.27
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "1/31/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 37.51
+  },
+  {
+    "<TICKER>": "TWTR US",
+    "<PER>": "D",
+    "<DATE>": "2/1/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 37.51
+  }
+]

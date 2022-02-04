@@ -1,0 +1,226 @@
+[
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/1/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 217.64
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/2/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 217.64
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/3/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 218.56
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/4/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 217.76
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/5/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 216.98
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/6/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 213.18
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/7/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 213.88
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/8/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 213.88
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/9/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 213.88
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/10/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 211.96
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/11/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 217.16
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/12/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 220.72
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/13/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 218.28
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/14/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 214.02
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/15/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 214.02
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/16/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 214.02
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/17/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 210.16
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/18/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 203.32
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/19/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 210.22
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/20/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 212.88
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/21/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 207.5
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/22/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 207.5
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/23/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 207.5
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/24/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 197.18
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/25/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 193.18
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/26/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 203.02
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/27/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 206.94
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/28/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 212.34
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/29/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 212.34
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/30/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 212.34
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "1/31/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 212.78
+  },
+  {
+    "<TICKER>": "NLMK RX",
+    "<PER>": "D",
+    "<DATE>": "2/1/2022",
+    "<TIME>": "00:00",
+    "<CLOSE>": 214.48
+  }
+]

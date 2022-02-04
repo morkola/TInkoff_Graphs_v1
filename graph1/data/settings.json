@@ -204,6 +204,284 @@
       "file": "INTC_US_2019",
       "short": "INTC",
       "color": "#006dbf"
+    },
+    {
+      "title": "Airbnb, Inc",
+      "year": "2020",
+      "file": "ABNB_US_2020",
+      "short": "ABNB",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "AMD",
+      "year": "2021",
+      "file": "AMD_US_2021",
+      "short": "AMD",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Activision Blizzard",
+      "year": "2021",
+      "file": "ATVI_US_2021",
+      "short": "ATVI",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Beyond Meat Inc",
+      "year": "2020",
+      "file": "BYND_US_2020",
+      "short": "BYND",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "PayPal Holdings",
+      "year": "2020",
+      "file": "PYPL_US_2020",
+      "short": "PYPL",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Twitter",
+      "year": "2020",
+      "file": "TWTR_US_2020",
+      "short": "TWTR",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Walt Disney",
+      "year": "2020",
+      "file": "DIS_US_2020",
+      "short": "DIS",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Детский мир",
+      "year": "2020",
+      "file": "DSKY_RX_2020",
+      "short": "DSKY",
+      "color": "#1399a3"
+    },
+    {
+      "title": "Северсталь",
+      "year": "2021",
+      "file": "CHMF_RX_2021",
+      "short": "CHMF",
+      "color": "#1399a3"
+    },
+    {
+      "title": "American Express",
+      "year": "2021",
+      "file": "AXP_US_2021",
+      "short": "AXP",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Sony",
+      "year": "2020",
+      "file": "SONY_US_2020",
+      "short": "SONY",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "AT&T",
+      "year": "2020",
+      "file": "T_US_2020",
+      "short": "T",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "COCA-COLA",
+      "year": "2021",
+      "file": "KO_US_2021",
+      "short": "KO",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Virgin Galactic Holdings",
+      "year": "2021",
+      "file": "SPCE_US_2021",
+      "short": "SPCE",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Macys",
+      "year": "2021",
+      "file": "M_US_2021",
+      "short": "M",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Morgan Stanly",
+      "year": "2021",
+      "file": "MS_US_2021",
+      "short": "MS",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Pfizer",
+      "year": "2021",
+      "file": "PFE_US_2021",
+      "short": "PFE",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Pinterest",
+      "year": "2020",
+      "file": "PINS_US_2020",
+      "short": "PINS",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Nike",
+      "year": "2021",
+      "file": "NKE_US_2021",
+      "short": "NKE",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Ford ",
+      "year": "2021",
+      "file": "F_US_2021",
+      "short": "F",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Wal-Mart Stores",
+      "year": "2021",
+      "file": "WMT_US_2021",
+      "short": "WMT",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Trip Adviser",
+      "year": "2020",
+      "file": "TRIP_US_2020",
+      "short": "TRIP",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Uber",
+      "year": "2020",
+      "file": "UBER_US_2020",
+      "short": "UBER",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Western Union",
+      "year": "2020",
+      "file": "WU_US_2020",
+      "short": "WU",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Hilton",
+      "year": "2021",
+      "file": "HLT_US_2021",
+      "short": "HLT",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Cегежа",
+      "year": "2021",
+      "file": "SGZH_RX_2021",
+      "short": "SGZH",
+      "color": "#1399a3"
+    },
+    {
+      "title": "Газпром",
+      "year": "2021",
+      "file": "GAZP_RX_2021",
+      "short": "GAZP",
+      "color": "#1399a3"
+    },
+    {
+      "title": "НЛМК",
+      "year": "2020",
+      "file": "NLMK_RX_2020",
+      "short": "NLMK",
+      "color": "#1399a3"
+    },
+    {
+      "title": "Новатэк",
+      "year": "2020",
+      "file": "NVTK_RX_2020",
+      "short": "NVTK",
+      "color": "#1399a3"
+    },
+    {
+      "title": "Ростелеком",
+      "year": "2020",
+      "file": "RTKM_RX_2020",
+      "short": "RTKM",
+      "color": "#1399a3"
+    },
+    {
+      "title": "ФосАгро",
+      "year": "2021",
+      "file": "PHOR_RX_2021",
+      "short": "PHOR",
+      "color": "#1399a3"
+    },
+    {
+      "title": "Русал",
+      "year": "2021",
+      "file": "RUAL_RX_2021",
+      "short": "RUAL",
+      "color": "#1399a3"
+    },
+    {
+      "title": "Татнефть",
+      "year": "2020",
+      "file": "TATN_RX_2020",
+      "short": "TATN",
+      "color": "#1399a3"
+    },
+    {
+      "title": "Crocs Inc",
+      "year": "2020",
+      "file": "CROX_US_2020",
+      "short": "CROX",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Gap",
+      "year": "2020",
+      "file": "GPS_US_2020",
+      "short": "GPS",
+      "color": "#1399a3",
+      "isBucks": true
+    },
+    {
+      "title": "Ralph Lauren  ",
+      "year": "2021",
+      "file": "RL_US_2021",
+      "short": "RL",
+      "color": "#1399a3",
+      "isBucks": true
     }
   ]
 }

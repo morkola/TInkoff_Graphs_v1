@@ -1,0 +1,2557 @@
+[
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3133
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3133
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3133
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3209
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3360
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3324
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3324
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3370
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3370
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3370
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3403
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3330
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3388
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3354
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3403
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3403
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3403
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3474
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3430
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3411
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3470
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3485
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3485
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3485
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3644
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3684
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3631
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3683
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3655
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3655
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "1/31/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3655
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3637
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3628
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3663
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3708
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3695
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3695
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3695
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3661
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3642
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3624
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3668
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3671
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3671
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3671
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3714
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3776
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3765
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3740
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3813
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3886
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3886
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3915
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3915
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3939
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3952
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4050
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4050
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "2/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4050
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4018
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4080
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4196
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4085
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4090
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4090
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4090
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4090
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4020
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3970
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3971
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3923
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3923
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3923
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3928
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3918
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3979
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3980
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3940
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3940
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3940
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 3951
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4076
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4117
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4104
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4070
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4070
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4070
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4095
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4102
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "3/31/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4047
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4120
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4205
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4205
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4205
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4194
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4168
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4184
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4353
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4340
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4340
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4340
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4380
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4416
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4367
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4399
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4396
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4396
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4396
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4466
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4500
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4495
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4438
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4391
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4391
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4391
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4385
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4345
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4345
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4358
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "4/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4367
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4367
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4367
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4367
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4363
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4320
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4374
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4375
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4375
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4375
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4300
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4367
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4325
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4338
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4289
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4289
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4289
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4319
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4510
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4401
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4547
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4557
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4557
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4557
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4552
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4639
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4557
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4499
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4654
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4654
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4654
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "5/31/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4651
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4677
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4698
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4695
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4728
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4728
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4728
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4743
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4960
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4917
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4970
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4988
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4988
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4988
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5090
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4906
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4961
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4830
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4853
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4853
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4853
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4916
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4930
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4952
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4820
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4816
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4816
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4816
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4809
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4700
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "6/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4773
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4868
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4715
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4715
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4715
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4820
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4815
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4835
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4820
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4799
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4799
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4799
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4799
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4800
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4820
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4790
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4731
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4731
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4731
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4710
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4688
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4723
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4710
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4680
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4680
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4680
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4686
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4621
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4667
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4699
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4603
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "7/31/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4603
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4603
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4550
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4613
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4614
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4571
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4573
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4573
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4573
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4765
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4723
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4732
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4718
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4703
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4703
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4703
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4690
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4635
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4600
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4633
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4580
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4580
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4580
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4581
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4600
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4650
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4632
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4654
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4654
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4654
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4722
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "8/31/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4865
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4730
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4687
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4723
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4723
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4723
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4833
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4923
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4946
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4834
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4807
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4807
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4807
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4891
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5137
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5009
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5125
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4950
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4950
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4950
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4938
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5034
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5140
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 4985
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5030
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5030
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5030
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5016
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5099
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5048
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "9/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5119
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5117
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5117
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5117
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5032
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5040
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5315
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5528
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5696
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5696
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5696
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5695
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5593
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5511
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5706
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5883
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5883
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5883
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 6010
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5978
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5868
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5812
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5714
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5714
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5714
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5820
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5814
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5689
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5772
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5602
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5602
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "10/31/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5602
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5676
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5663
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5558
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5558
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5829
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5829
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5829
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5845
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5920
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5844
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5813
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5694
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5694
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5694
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5853
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5797
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5817
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5798
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5734
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5734
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5734
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5558
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5700
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5835
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5805
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5673
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5673
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5673
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5654
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "11/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5673
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/1/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5520
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/2/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5572
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/3/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5536
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/4/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5536
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/5/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5536
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/6/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5490
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/7/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5574
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/8/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5524
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/9/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5624
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/10/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5566
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/11/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5566
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/12/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5566
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/13/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5480
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/14/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5580
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/15/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5690
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/16/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5907
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/17/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5627
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/18/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5627
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/19/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5627
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/20/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5570
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/21/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5519
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/22/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5543
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/23/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5552
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/24/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5575
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/25/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5575
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/26/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5575
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/27/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5722
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/28/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5864
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/29/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5854
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/30/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5833
+  },
+  {
+    "<TICKER>": "PHOR RX",
+    "<PER>": "D",
+    "<DATE>": "12/31/2021",
+    "<TIME>": "00:00",
+    "<CLOSE>": 5833
+  }
+]

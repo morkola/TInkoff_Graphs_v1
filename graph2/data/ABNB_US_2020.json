@@ -1,0 +1,163 @@
+[
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.8
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 148.43
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 150
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 149
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.84
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.84
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.84
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.84
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.01
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.19
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.02
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 157.3
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 157.3
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 157.3
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 147.05
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 137.99
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 124.8
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 130
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.25
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.25
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.25
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 144.71
+  },
+  {
+    "<TICKER>": "ABNB US",
+    "<PER>": "D",
+    "<DATE>": "12/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 68
+  }
+]

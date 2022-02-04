@@ -1,0 +1,2564 @@
+[
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.64
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.8
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.36
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.36
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.36
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.91
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.26
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.72
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.63
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.78
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.78
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.78
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.62
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.51
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.76
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.95
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.3
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.42
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.61
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.44
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.44
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.44
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.83
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.18
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.62
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.2
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "1/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.03
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.03
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.03
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.35
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.46
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.91
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.01
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.2
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.2
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.2
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.29
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.03
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.94
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.54
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.22
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.22
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.22
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.22
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.76
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.6
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.54
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.48
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.48
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.48
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.65
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.96
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.31
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.21
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.5
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "2/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.5
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.5
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.28
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.8
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.94
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.51
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.51
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.51
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.21
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.74
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.45
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.31
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.31
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.31
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.31
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11.64
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.65
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10.92
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.61
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.21
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.21
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.21
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.52
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.26
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.03
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.2
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.94
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.94
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.94
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.42
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "3/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.44
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.17
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.7
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.82
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.82
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.82
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.21
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.06
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.83
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.75
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.75
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.75
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.75
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.47
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.24
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.03
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.01
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.45
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.45
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.45
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.43
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.87
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.26
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.85
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.62
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.62
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.62
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.78
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.89
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.85
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "4/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.66
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.75
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.75
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.75
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.43
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.81
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.72
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.7
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.79
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.79
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.79
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.61
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.76
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.61
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.06
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.24
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.24
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.24
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.52
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.66
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.89
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.69
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.6
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.6
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.6
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.6
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.5
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.11
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.8
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.29
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.29
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "5/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.29
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.43
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.51
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.44
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.2
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.13
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.13
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.13
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.19
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.04
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.41
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.26
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.89
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.89
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.89
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.15
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.2
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.4
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.06
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.21
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.21
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.21
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.95
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.07
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.17
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.58
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.61
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.61
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.61
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.04
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "6/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 22.17
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.28
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.11
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.11
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.11
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.11
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.82
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.85
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 27
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 27.42
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 26.56
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 26.56
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 26.56
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.77
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.74
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.62
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.65
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.93
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.93
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.93
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 26.08
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.72
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.39
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.64
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.54
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.54
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.54
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.27
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.95
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.19
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "7/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.29
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.29
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.29
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 36.08
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.91
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.88
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.9
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.98
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.98
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.98
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.86
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.4
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.53
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.86
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.68
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.68
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.68
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.01
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.98
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.53
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.5
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.19
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.19
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.19
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 32.9
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.07
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.31
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.49
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.34
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.34
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.34
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "8/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 36.79
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 38.36
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 38.81
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.93
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.38
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.38
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.38
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.38
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.03
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 35.51
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.69
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.11
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.11
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 34.11
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 36.32
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 37.61
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 37.13
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 36.59
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 36.88
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 36.88
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 36.88
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 36.87
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 40.55
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 39.55
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 38.49
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 39.9
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 39.9
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 39.9
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 40.98
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 40.56
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "9/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 41.51
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.53
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.82
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.82
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.82
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.07
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.01
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.36
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.61
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.39
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.39
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.39
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.04
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.15
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.99
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.65
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.06
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.06
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.06
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.82
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.32
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 49.38
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 50.81
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 50.46
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 52.52
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 49.25
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 62.51
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.95
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "10/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.95
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.95
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.38
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 59.58
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 61.45
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 63.47
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 64.74
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 64.74
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 64.74
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 57.75
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.67
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 59.55
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 60.26
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 62.32
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 62.32
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 62.32
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 62.62
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 63.35
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 64.45
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 65.95
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 66.85
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 66.85
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 66.85
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 65.79
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 64.03
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 67.42
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 67.42
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 69.72
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 69.72
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 69.72
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "11/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.02
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/1/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 68.21
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/2/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 68.01
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/3/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 69.7
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/4/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 67.31
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/5/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 67.31
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/6/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 67.31
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/7/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.31
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/8/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 69.92
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/9/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 68.47
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.64
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.13
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.13
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.13
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 69.79
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.71
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.27
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.36
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.36
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.36
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 69.85
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.35
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.99
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.04
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.04
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.04
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.04
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 67.79
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 68.29
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 67.14
+  },
+  {
+    "<TICKER>": "PINS US",
+    "<PER>": "D",
+    "<DATE>": "12/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 65.9
+  }
+]

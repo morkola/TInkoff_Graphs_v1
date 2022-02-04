@@ -1,0 +1,2340 @@
+[
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 93.86
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 93.86
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 93.86
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 94.77
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 95.6
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 95.64
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 96.73
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 95.58
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 95.58
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 95.58
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 96.2
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 96.97
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.94
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.52
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.99
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.99
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.99
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.99
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.2
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.88
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.39
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.55
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.55
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.55
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.12
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.69
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.11
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "2/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.99
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.93
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.93
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.93
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.85
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.34
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.26
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.45
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.59
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.59
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.59
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.48
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.37
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.03
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.22
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.42
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.42
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.42
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.66
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.85
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.64
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.06
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.28
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.28
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.28
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.17
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.32
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.21
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.13
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.53
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.53
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "3/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.53
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.82
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 96.94
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.19
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.11
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.83
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.83
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.83
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.23
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.69
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.6
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.8
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.56
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.56
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.56
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.43
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.93
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.16
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.18
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.18
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.18
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.18
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.37
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.07
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.53
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.52
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.53
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.53
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.53
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.56
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "4/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.84
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.36
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.15
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.08
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.08
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.08
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.46
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.3
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.3
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.54
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.91
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.91
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.91
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.89
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.29
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.88
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.31
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.86
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.86
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.86
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.52
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.12
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.23
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.86
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.67
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.67
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.67
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.67
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.42
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.12
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.19
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "5/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.44
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.44
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.44
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.96
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.56
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 104.42
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 105.11
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 106.06
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 106.06
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 106.06
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 107.52
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 107.94
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 108.82
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 108.65
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 109.07
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 109.07
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 109.07
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 109.16
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 109.65
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 109.62
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.32
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.13
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.13
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.13
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.24
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.72
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.16
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.1
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.49
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.49
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "6/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.49
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.62
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.6
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.32
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.32
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.98
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.98
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.98
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.72
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.88
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.98
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.92
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.6
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.6
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.6
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.98
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.76
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.6
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.72
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.9
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.9
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.9
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.82
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.09
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.22
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.02
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.02
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.02
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.27
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.06
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "7/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.38
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 109.38
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 109.4
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 109.4
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 109.4
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 105.82
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 107.27
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 108.2
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 108.52
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 107.28
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 107.28
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 107.28
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 105.12
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 107.41
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 106.2
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.69
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.99
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.99
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.99
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.81
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.05
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.02
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.91
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.83
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.83
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.83
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.99
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.42
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.72
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.08
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.26
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "8/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.26
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.26
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.26
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.64
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.91
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.44
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.73
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.73
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.73
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.33
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.05
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.02
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.92
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.43
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.43
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.43
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.57
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.51
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.16
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.11
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.98
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.98
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.98
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.62
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.4
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.47
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.3
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.45
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.45
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.45
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "9/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.68
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.85
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.12
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.31
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.16
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.16
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.16
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.23
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.58
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.93
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.61
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.24
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.24
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.24
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.17
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.53
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.42
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.84
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.14
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.14
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.14
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.74
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.58
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.35
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.1
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.04
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.04
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.04
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.22
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.15
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.1
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "10/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.26
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.62
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.62
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.62
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.57
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.86
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.5
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.23
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.44
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.44
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.44
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.04
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.12
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.98
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.65
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.87
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.87
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.87
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.25
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.89
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.13
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.86
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.36
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.36
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.36
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.92
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.19
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.76
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.76
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.09
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "11/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.09
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.09
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.28
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.67
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.69
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.66
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.78
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.78
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.78
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.36
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.14
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.76
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.29
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.29
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.29
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.54
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 121.28
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.86
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.08
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.29
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.29
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.29
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.03
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.51
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.51
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.52
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.59
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.59
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.59
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.4
+  },
+  {
+    "<TICKER>": "WMT US",
+    "<PER>": "D",
+    "<DATE>": "12/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.84
+  }
+]

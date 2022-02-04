@@ -1,0 +1,2340 @@
+[
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.01
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.01
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.01
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.78
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.84
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.96
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.41
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.41
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.41
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 40.11
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 41.67
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.57
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.43
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.6
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.6
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.6
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.6
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.48
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.78
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 41.9
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 41.5
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 41.5
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 41.5
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 41.96
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.08
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 41.79
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "2/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.14
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.84
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.84
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.84
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 41.79
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 41.88
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.56
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 41.42
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.03
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.03
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.03
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.92
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.63
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.7
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.32
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.63
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.63
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.63
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.97
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.42
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.16
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.6
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.87
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.87
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.87
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.98
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.43
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.52
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.62
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.53
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.53
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "3/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.53
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.12
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.46
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.65
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.96
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.29
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.29
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.29
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.57
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.01
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.86
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.17
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.28
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.28
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.28
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.75
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.06
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.98
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.31
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.31
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.31
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.31
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.34
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.51
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.75
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.41
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.15
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.15
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.15
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.4
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "4/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.21
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.56
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 49.55
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.15
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.15
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.15
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.16
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.68
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.82
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.64
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.02
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.02
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.02
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.41
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.7
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.28
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.29
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.39
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.39
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.39
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.61
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.45
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.91
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.19
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.29
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.29
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.29
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.29
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.5
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.99
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.56
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "5/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.37
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.37
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.37
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 42.38
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 43.61
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.52
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 44.08
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.38
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.38
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.38
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.01
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.7
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.09
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.05
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.62
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.62
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.62
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.07
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.77
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.33
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.67
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.91
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.91
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.91
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.15
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.2
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.73
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.28
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.2
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.2
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "6/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.2
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.5
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.98
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.66
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.66
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.15
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.15
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.15
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.47
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.37
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.84
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.34
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.2
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.2
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.2
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.66
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.99
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.68
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.72
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.14
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.14
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.14
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.57
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.92
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.86
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.19
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.99
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.99
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.99
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.45
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.29
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "7/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.74
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 50.19
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 49.02
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 49.02
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 49.02
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.1
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.59
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.1
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 49.33
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.06
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.06
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.06
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.08
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.13
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.26
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 45.51
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.66
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.66
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 46.66
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.92
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.8
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 49.04
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 49.08
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.33
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.33
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 47.33
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 48.69
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 51.09
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 50.21
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 50.96
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 50.6
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "8/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 50.6
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 50.6
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 50.6
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 51.06
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53.5
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.58
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.58
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.58
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.58
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.19
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 56.03
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.91
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.45
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.95
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.95
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.95
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.78
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.35
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.12
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.01
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.76
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.76
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.76
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.18
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53.96
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.94
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.22
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 52.33
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 52.33
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 52.33
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "9/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 52.92
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 52.9
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 52.25
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.07
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.44
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.44
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.44
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.41
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.13
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53.43
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53.69
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.82
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.82
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.82
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.01
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.56
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.59
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.59
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.54
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.54
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.54
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.51
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.52
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.8
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.44
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.26
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.26
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.26
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.56
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.87
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "10/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 56.03
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.82
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.82
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.82
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.71
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.54
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 56.36
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.55
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.3
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.3
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.3
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 52.52
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 51.95
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 52.33
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 52.7
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53.44
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53.44
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53.44
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 52.73
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53.28
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.085
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53.69
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53.04
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53.04
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53.04
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53.73
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.17
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.48
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.48
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.83
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "11/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.83
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/1/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.83
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/2/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.23
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/3/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.59
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/4/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 53.88
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/5/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.99
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/6/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.21
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/7/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.21
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/8/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.21
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/9/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 54.39
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/10/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 55.94
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/11/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 56.48
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/12/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.56
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/13/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.65
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/14/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.65
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/15/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.65
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/16/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.61
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/17/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.26
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/18/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 59.02
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/19/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 59.13
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/20/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 59.22
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/21/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 59.22
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/22/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 59.22
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/23/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.89
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/24/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.81
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/25/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.81
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/26/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.89
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/27/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 59.185
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/28/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 59.185
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/29/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 59.185
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/30/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 58.88
+  },
+  {
+    "<TICKER>": "ATVI US",
+    "<PER>": "D",
+    "<DATE>": "12/31/19",
+    "<TIME>": "00:00",
+    "<CLOSE>": 59.42
+  }
+]
