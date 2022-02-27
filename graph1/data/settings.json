@@ -308,7 +308,7 @@
       "isBucks": true
     },
     {
-      "title": "Virgin Galactic Holdings",
+      "title": "Virgin Galactic",
       "year": "2021",
       "file": "SPCE_US_2021",
       "short": "SPCE",
@@ -316,7 +316,7 @@
       "isBucks": true
     },
     {
-      "title": "Macys",
+      "title": "Macy's",
       "year": "2021",
       "file": "M_US_2021",
       "short": "M",
@@ -324,7 +324,7 @@
       "isBucks": true
     },
     {
-      "title": "Morgan Stanly",
+      "title": "Morgan Stanley",
       "year": "2021",
       "file": "MS_US_2021",
       "short": "MS",
@@ -348,7 +348,7 @@
       "isBucks": true
     },
     {
-      "title": "Nike",
+      "title": "NIKE",
       "year": "2021",
       "file": "NKE_US_2021",
       "short": "NKE",
@@ -356,7 +356,7 @@
       "isBucks": true
     },
     {
-      "title": "Ford ",
+      "title": "Ford",
       "year": "2021",
       "file": "F_US_2021",
       "short": "F",
@@ -372,7 +372,7 @@
       "isBucks": true
     },
     {
-      "title": "Trip Adviser",
+      "title": "TripAdvisor",
       "year": "2020",
       "file": "TRIP_US_2020",
       "short": "TRIP",
@@ -425,7 +425,7 @@
       "color": "#1399a3"
     },
     {
-      "title": "Новатэк",
+      "title": "НОВАТЭК",
       "year": "2020",
       "file": "NVTK_RX_2020",
       "short": "NVTK",
@@ -446,7 +446,7 @@
       "color": "#1399a3"
     },
     {
-      "title": "Русал",
+      "title": "РУСАЛ",
       "year": "2021",
       "file": "RUAL_RX_2021",
       "short": "RUAL",
