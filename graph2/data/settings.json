@@ -38,7 +38,7 @@
       "color": "#c16c02"
     },
     {
-      "title": "Mc'DONALDS",
+      "title": "McDonald's",
       "year": 2020,
       "file": "MCD_US_2020",
       "short": "MCD",
@@ -298,7 +298,7 @@
       "isBucks": true
     },
     {
-      "title": "Sony",
+      "title": "Sony Corp",
       "year": "2020",
       "file": "SONY_US_2020",
       "short": "SONY",
@@ -322,7 +322,7 @@
       "isBucks": true
     },
     {
-      "title": "Virgin Galactic",
+      "title": "Virgin Galactic Holdings Inc",
       "year": "2021",
       "file": "SPCE_US_2021",
       "short": "SPCE",
@@ -354,7 +354,7 @@
       "isBucks": true
     },
     {
-      "title": "Pinterest",
+      "title": "Pinterest Inc",
       "year": "2020",
       "file": "PINS_US_2020",
       "short": "PINS",
