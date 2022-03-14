@@ -24,7 +24,7 @@
       "color": "darkred"
     },
     {
-      "title": "Ozon Holdings PLC",
+      "title": "Ozon Holdings",
       "year": 2020,
       "file": "MOEX.OZON_TQBR_200101_201231",
       "short": "OZON",
@@ -115,7 +115,7 @@
       "color": "darkblue"
     },
     {
-      "title": "Bank of America Corp",
+      "title": "Bank of America",
       "year": 2020,
       "file": "BAC_US_2020",
       "short": "BAC",
@@ -167,7 +167,7 @@
       "title": "Hewlett Packard",
       "year": 2020,
       "file": "HPQ_US_2020",
-      "short": "HPQ",
+      "short": "HPE",
       "color": "darkblue"
     },
     {
@@ -206,7 +206,7 @@
       "color": "#006dbf"
     },
     {
-      "title": "Airbnb, Inc",
+      "title": "Airbnb",
       "year": "2021",
       "file": "ABNB_US_2021",
       "short": "ABNB",
@@ -230,7 +230,7 @@
       "isBucks": true
     },
     {
-      "title": "Beyond Meat Inc",
+      "title": "Beyond Meat",
       "year": "2020",
       "file": "BYND_US_2020",
       "short": "BYND",
@@ -284,7 +284,7 @@
       "isBucks": true
     },
     {
-      "title": "Sony Corp",
+      "title": "Sony",
       "year": "2020",
       "file": "SONY_US_2020",
       "short": "SONY",
@@ -308,7 +308,7 @@
       "isBucks": true
     },
     {
-      "title": "Virgin Galactic Holdings Inc",
+      "title": "Virgin Galactic",
       "year": "2021",
       "file": "SPCE_US_2021",
       "short": "SPCE",
@@ -340,7 +340,7 @@
       "isBucks": true
     },
     {
-      "title": "Pinterest Inc",
+      "title": "Pinterest",
       "year": "2020",
       "file": "PINS_US_2020",
       "short": "PINS",
@@ -460,7 +460,7 @@
       "color": "#1399a3"
     },
     {
-      "title": "Crocs Inc",
+      "title": "Crocs",
       "year": "2020",
       "file": "CROX_US_2020",
       "short": "CROX",
