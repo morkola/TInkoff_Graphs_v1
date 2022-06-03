@@ -1,0 +1,1787 @@
+[
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.800003
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.739998
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.510002
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.209999
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.199997
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 84.050003
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.75
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.199997
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.339996
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.93
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.769997
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.040001
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.199997
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.290001
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.639999
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.809998
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "01/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.190002
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.220001
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.620003
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.029999
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.989998
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.129997
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.599998
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.300003
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.75
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.330002
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.769997
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 73.269997
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.330002
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.370003
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 69.839996
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.510002
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.620003
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.489998
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.800003
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "02/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 71.080002
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.800003
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.620003
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 69.57
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.589996
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.010002
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.779999
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.050003
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.410004
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.669998
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 69.699997
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 70.029999
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 68.160004
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 66.989998
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 64.489998
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 62.880001
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 63.32
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 64.389999
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 66.239998
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 65.510002
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "03/31/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 68
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 66.919998
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 68.199997
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 67.379997
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 68.099998
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 68.110001
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 67.800003
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 67.160004
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 68.029999
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 68.629997
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.720001
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.620003
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.699997
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.970001
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.349998
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.02
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.54
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.73
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.92
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "04/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.74
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 72.62
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.19
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.89
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.47
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.13
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.68
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.87
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.06
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.94
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.18
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.72
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.65
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 83.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 85.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.8
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.6
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "05/31/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.86
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.11
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.96
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.38
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.13
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.3
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.77
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.54
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.35
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.2
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.18
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.04
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.49
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.51
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.13
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 77.01
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.77
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.2
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "06/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 75.54
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.9
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.1
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.53
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.42
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 74.69
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.8
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.74
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.52
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.36
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.8
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 76.49
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.35
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.8
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.3
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.28
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 78.41
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.34
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 79.8
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.19
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "07/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.55
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.69
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.9
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.33
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.2
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.22
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.7
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.14
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.83
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 82.79
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 81.18
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 83.75
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 96.14
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.69
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 105
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "08/31/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.48
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.7
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.15
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.63
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 145.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 150.1
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 156.86
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 151.55
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 159.4
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.6
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 156.02
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 157.59
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 153.49
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 148.55
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 130.54
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 127.49
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 147.22
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.01
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.55
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 149.82
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.65
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.51
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "09/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 150.9
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 148.03
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.33
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 152.2
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 145.71
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 149.38
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 148.4
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 161.98
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.26
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 161.55
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.96
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 161.64
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 168.7
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 173
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 167.1
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 160.3
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 160.69
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 160.44
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 151.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.85
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "10/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 145.53
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 153.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.67
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.7
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 140.02
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.43
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.24
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 145.78
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 145.06
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 144.3
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 145.68
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.5
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 129
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.21
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.4
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 122
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 123.53
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.1
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.42
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "11/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 109.18
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.17
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.22
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.6
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.15
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.76
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.3
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.8
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 95.8
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 96.57
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.9
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.66
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.73
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 121.21
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 121.4
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.49
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.39
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 122.54
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 124.2
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 121.56
+  },
+  {
+    "<TICKER>": "MTLR RX",
+    "<PER>": "D",
+    "<DATE>": "12/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 123.29
+  }
+]

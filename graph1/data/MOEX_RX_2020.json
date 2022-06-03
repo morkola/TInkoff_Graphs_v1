@@ -1,0 +1,1752 @@
+[
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 107.18
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 108.03
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.84
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.99
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.1
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.02
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.88
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.5
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.8
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.62
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.5
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.82
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.62
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.3
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.8
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.81
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "01/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 109.94
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 110.94
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.35
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.3
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.42
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.16
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.8
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.91
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.25
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.5
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112.8
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.8
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.65
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 112
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.33
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 107.54
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 107.3
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 104.73
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "02/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.080002
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99.730003
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 98.080002
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 96.5
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 94.93
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 90.949997
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 90
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 92.639999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 91.690002
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 90.010002
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 87.5
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 83.970001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 80.980003
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 88.459999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 92
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 91.599998
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 94.459999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 92.970001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 92.779999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 91.730003
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 93.599998
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "03/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.25
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 96.709999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 97.25
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 99
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 100.75
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 101.37
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 104.2
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 106.9
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 105.4
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 103.33
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 106.2
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 102.68
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 108.58
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.37
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111.8
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 111
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.04
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.5
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 117.03
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.1
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 125.35
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 121.5
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "04/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.23
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 119.6
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 120.99
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 122.74
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 124.78
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 127.09
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 128.3
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 127.28
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.46
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.57
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.91
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.4
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.8
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.35
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.47
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.98
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.33
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.59
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.39
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "05/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.29
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.42
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.5
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.48
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.4
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.28
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.66
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.05
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.42
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.05
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.24
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.13
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.16
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.67
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 115.8
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 114.46
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.7
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.09
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "06/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 113.2
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.07
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 116.14
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 118.99
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 122.51
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 122.48
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 124.01
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 126.45
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 124.04
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 124.92
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 125.69
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 125.34
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 125.37
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 125.92
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 124.61
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 126.38
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 125.46
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 128.2
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 132
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 131.75999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 133.99001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 131.75999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "07/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 133.25
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 138.86
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 140.55
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 145.35001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 147.10001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.24001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 140.77
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.14
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 144.64999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.06
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.75
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.96001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.57001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 144.34
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 144.35001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.17999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 145.72
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.72
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.52
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 141.60001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.38
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "08/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 137.87
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 137.5
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 137.05
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.5
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 135.08
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.77
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.53999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.86
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.14999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 138.39
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 137.78999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.84
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 145.57001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 148.67999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.25999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 142.24001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 144.57001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 143.89999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 145.3
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 144.64999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 147.5
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 148.96001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "09/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.92
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.00999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 148.10001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.53
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.16
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 151.89999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 150.38
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 149.55
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 151.66
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 148.39999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 149.3
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 150.25
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.92
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 144.42
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.25999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.94
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 145.32001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 142.67
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 140.94
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 141.17999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 138.10001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 140.3
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "10/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 134.19
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 133.2
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 132.87
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 137.75
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 137.64999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 141.24001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 138.46001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 135.73
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 134.10001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 134.57001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.34
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 136.05
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 137.14999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 138.96001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 139.48
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 138.69
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 141.38
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 142.78
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 146.86
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 153.10001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "11/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 152.88
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 154.82001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.44
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 157.86
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 157.60001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 157.50999
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 159
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.57001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 164.72
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 167
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 165.35001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.64
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 163.21001
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 160.66
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 158.38
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 161.17
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 162.19
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 160.95
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 160.19
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 159.23
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 159.67
+  },
+  {
+    "<TICKER>": "MOEX RX",
+    "<PER>": "D",
+    "<DATE>": "12/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 159.25
+  }
+]

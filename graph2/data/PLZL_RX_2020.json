@@ -1,0 +1,1752 @@
+[
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7286
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7422
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7468
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7326
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7220
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7358
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7391
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7422
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7379
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7360
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7385
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7375
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7380
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7378
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7449
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7857
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7775
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7752
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7820
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "01/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7815
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7698
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7529
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7481
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7562
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7766
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7916
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7896
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7839
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7969
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8003
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7922
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8000
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8111
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8200
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8508
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8780
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8645
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8902
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "02/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8464
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8541
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8591
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8567
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8628
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8885
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 9382
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 9373
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8970
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8745
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 7954
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8121
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8384
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8457
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8496
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 8423
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 9521
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 9995
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11048
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10821
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11173
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "03/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10638
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10038
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10355
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10395
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10819
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10970
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11051
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11261
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11401
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11525
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12150
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11473
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11940
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11685
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11635
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11795
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12209
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11951
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12095
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12081
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11917
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11936
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "04/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12110
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12023
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11832
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11921
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11839
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11973
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11979
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12295
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12350
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12306
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12257
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12110
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12074
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11925
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11815
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11975
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11628
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11263
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11340
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "05/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11673
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11400
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11142
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10567
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10689
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10246
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10149
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10465
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10590
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10888
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10520
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10345
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10742
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10850
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11068
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11331
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11534
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11690
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11740
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11896
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "06/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11987
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11974
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12220
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12491
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12707
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12914
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13280
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13171
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12852
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12820
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13270
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13168
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13225
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13342
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13485
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13920
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14498
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15265
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17248
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16580
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16650
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16240
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "07/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16949
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16850
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17381
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18170
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18592
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18068
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17753
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16834
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17302
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17460
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17419
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18153
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17948
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17633
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17830
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17686
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17966
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17986
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18345
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18170
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18366
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "08/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18086
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17868
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17530
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16951
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17266
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17431
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17023
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16735
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16807
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17067
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16950
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16943
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17413
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16947
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16930
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16460
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16285
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16310
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16335
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16336
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16424
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16658
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "09/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16251
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16352
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16737
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16963
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16401
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16566
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16883
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16982
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16850
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16655
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17430
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17319
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17400
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17269
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17130
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16801
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16769
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16527
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16142
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16499
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15935
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15601
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "10/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15537
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16319
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16671
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17195
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17698
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16615
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16433
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15880
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16033
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16296
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16035
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15791
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15771
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15490
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15410
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14785
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14630
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14570
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15020
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14640
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "11/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14530
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14859
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14657
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14503
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14360
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14740
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15061
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14580
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14430
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14247
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14394
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14900
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14750
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15286
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15320
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15650
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15102
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15192
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15195
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15183
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15175
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15229
+  },
+  {
+    "<TICKER>": "PLZL RX",
+    "<PER>": "D",
+    "<DATE>": "12/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15245
+  }
+]

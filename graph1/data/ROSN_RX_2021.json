@@ -1,0 +1,1787 @@
+[
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 436
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 449.35001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 453.70001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 478.20001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 473.25
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 474.39999
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 485.95001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 505
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 512.20001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 516.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 510.70001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 510.64999
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 498
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 494.25
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 495.60001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 493.95001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 481.25
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 483.39999
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "01/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 473
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 478.35001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 482
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 489.95001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 489.20001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 493.95001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 501.75
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 494.79999
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 491.45001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 496.79999
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 509.35001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 521.45001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 525.59998
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 515.15002
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 506.85001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 512.75
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 513.15002
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 516
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 518.25
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 529.34998
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "02/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 523.34998
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 524.09998
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 526
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 533.79999
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 540.09998
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 561
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 570.59998
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 561.15002
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 572
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 572.25
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 576.40002
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 571.20001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 555.84998
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 544.04999
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 560.29999
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 562.65002
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 565.09998
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 568.04999
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 574.65002
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 579.34998
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 576.20001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 570.95001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "03/31/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 570.90002
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 565.04999
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 567
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 560
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 547.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 547
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 536.04999
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 539.34998
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 545.40002
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 554.40002
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 558.20001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 553.34998
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 549.04999
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 543.20001
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 544.15002
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 541.6
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 538.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 530.6
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 528
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 527.95
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 528.75
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "04/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 525.2
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 537.15
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 538.65
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 538.55
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 536.2
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 541.95
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 532
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 542.2
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 545.65
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 545.55
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 540.45
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 529.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 517.35
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 525.55
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 523.95
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 524.35
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 525.85
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 525.2
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 523.35
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "05/31/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 531.4
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 544
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 552
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 559.45
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 556.45
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 551.55
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550.25
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 548.25
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 539.6
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 535.45
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 537.6
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 536.05
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 541.25
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 537
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 541
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 541.2
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 551.85
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 570.45
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 565.95
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 564.7
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 555
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 553.05
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "06/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 571.2
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 581.45
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 567
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 567.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 571
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 580.25
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 581.1
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 577.85
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 579
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 576
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 569
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 562.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 563.45
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 543.9
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 547.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 551.9
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 553.65
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 548.85
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 552.7
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 551.2
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 554.25
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 554
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "07/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 544.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 548.85
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 551
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 543.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 548
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 544.9
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 545
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 562.55
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 561.8
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 565.9
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 558.55
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 564.4
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 555
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 546.95
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 537.8
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 534
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 544.85
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 545
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 538.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 531.7
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 537.8
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 539.3
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "08/31/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 533.6
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 541.55
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550.7
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 555.4
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550.7
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 547.3
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 555.9
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 541.9
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 543.3
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 559.4
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 557.25
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 568.1
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 576.45
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 567.1
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 552.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 564.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 586
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 598.25
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 614
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 627.85
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 617.85
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 618.9
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "09/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 614.35
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 618.45
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 631.7
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 655.25
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 646
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 647.95
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 631
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 641.55
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 638.65
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 632.85
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 640.45
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 645.45
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 639.3
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 643
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 643.55
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 633.3
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 634.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 655.05
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 650.8
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 638.4
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 641.3
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "10/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 636.1
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 642
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 630.4
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 619.75
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 626.55
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 631.7
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 636.4
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 629.8
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 634.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 619.2
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 621.55
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 621.35
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 619.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 614.1
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 590.5
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 581.15
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 601.95
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 597.3
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 590.9
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 555.15
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 573.25
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "11/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 566.1
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 569.95
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 582.15
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 576.55
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 573.3
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 589.55
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 574.95
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 578.35
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 572.1
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 539.15
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550.85
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 561.1
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 573
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 573.2
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 567.55
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 575
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 579.05
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 578.8
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 572.05
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 582
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 596.2
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 592
+  },
+  {
+    "<TICKER>": "ROSN RX",
+    "<PER>": "D",
+    "<DATE>": "12/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 599
+  }
+]

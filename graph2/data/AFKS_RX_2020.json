@@ -1,0 +1,1752 @@
+[
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.134
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.039
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.094
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.075
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.047
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.14
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.625
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.6
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.724
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.07
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.256001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.112
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.940001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.77
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.040001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.48
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.98
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.934999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.121
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "01/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.316999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.4
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.662001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.57
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.486
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.443001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.17
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.809
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.782
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.396999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.997999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.174999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.85
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.700001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.615
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.48
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.931
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.040001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.261
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "02/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.035
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.548
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.5
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.046
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.658
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.982
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.64
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.855
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11.25
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11.474
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11.28
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11.13
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 10.789
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.055
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.48
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 11.86
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.5
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.677
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.3
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.16
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.373
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "03/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.115
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 12.93
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.01
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.304
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.95
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.96
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.16
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.12
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.33
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.051
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.829
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.17
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.327
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.97
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.39
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.652
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.82
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.505
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.91
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.881
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.193
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "04/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.45
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.209
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.489
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.515
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.388
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.485
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.407
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.16
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 13.8
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.42
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.506
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.891
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.52
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.488
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.83
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.84
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 14.99
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.07
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "05/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.3
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 15.741
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.219999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.162001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.132999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.941
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.947001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.943001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.742001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.110001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.483999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.950001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.483999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.131001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 16.785
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.1
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.073999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.18
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.235001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.450001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "06/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.1
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.172001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.256001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.789
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.32
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.716999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.865
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.552
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 17.950001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.087
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.41
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.222
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.926001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.271999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.004999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 18.898001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.052999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.091999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.283001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.190001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "07/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.757999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 19.99
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.379999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.485001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.125
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.115999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.114
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.799999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.669001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.415001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.747
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.1
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.924
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.826
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.575001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.700001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.389999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.389
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.333
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.224001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.297001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "08/31/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.389999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.629
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.927
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.573
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.719
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.65
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.488001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.677999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.648001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.950001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.940001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.024
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.423
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.854
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.698
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.190001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 20.9
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.790001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.777
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.152
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.349001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.143999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "09/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.08
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 21.926001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.200001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.193001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.049999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.504999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.747999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 23.511
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.476999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.974001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 26.35
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.650999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.872999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.030001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.809
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.535
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.5
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.57
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.190001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.639999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 24.676001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.545
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "10/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.23
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.594
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 25.698999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/05/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 26.261999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/06/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 26.799999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 27.33
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 28.200001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 29.497999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/12/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 31.479
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/13/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 32.48
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 32.098
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 31.737
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 32.320999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/19/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 32.351002
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/20/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 33.43
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 33.619999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 33.148998
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 31.215
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/26/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 30.1
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/27/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 30.889999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "11/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 30.722
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/01/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 30.336
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/02/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 30.084
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/03/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 30.096001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/04/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 29.794001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/07/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 29.280001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/08/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 29.200001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/09/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 28.399
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/10/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 28.466
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/11/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 27.950001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/14/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 27.309999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/15/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 28.379999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/16/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 28.938
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/17/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 28.82
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/18/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 28.292999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/21/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 27.912001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/22/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 28.67
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/23/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 28.801001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/24/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 28.440001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/25/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 28.379
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/28/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 28.927999
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/29/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 28.860001
+  },
+  {
+    "<TICKER>": "AFKS RX",
+    "<PER>": "D",
+    "<DATE>": "12/30/20",
+    "<TIME>": "00:00",
+    "<CLOSE>": 28.711
+  }
+]

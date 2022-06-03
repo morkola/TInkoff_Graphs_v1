@@ -52,13 +52,6 @@
       "color": "#1D4993"
     },
     {
-      "title": "MAIL.RU",
-      "year": 2020,
-      "file": "MAIL_LI_2020",
-      "short": "MAIL",
-      "color": "#1D4993"
-    },
-    {
       "title": "Сбер Банк",
       "year": 2020,
       "file": "SBER_RX_2020",
@@ -496,6 +489,69 @@
       "short": "RL",
       "color": "#1399a3",
       "isBucks": true
+    },
+    {
+      "title": "АФК Система",
+      "year": 2020,
+      "file": "AFKS_RX_2020",
+      "short": "AFKS",
+      "color": "#1399a3"
+    },
+    {
+      "title": "АЛРОСА",
+      "year": 2021,
+      "file": "ALRS_RX_2021",
+      "short": "ALRS",
+      "color": "#1399a3"
+    },
+    {
+      "title": "Fix Price Group",
+      "year": 2021,
+      "file": "FIXP_RX_2021",
+      "short": "FIXP",
+      "color": "#1399a3"
+    },
+    {
+      "title": "РусГидро",
+      "year": 2021,
+      "file": "HYDR_RX_2021",
+      "short": "HYDR",
+      "color": "#1399a3"
+    },
+    {
+      "title": "Московская Биржа",
+      "year": 2020,
+      "file": "MOEX_RX_2020",
+      "short": "MOEX",
+      "color": "#1399a3"
+    },
+    {
+      "title": "Мечел",
+      "year": 2021,
+      "file": "MTLR_RX_2021",
+      "short": "MTLR",
+      "color": "#1399a3"
+    },
+    {
+      "title": "Полюс Золото",
+      "year": 2020,
+      "file": "PLZL_RX_2020",
+      "short": "PLZL",
+      "color": "#1399a3"
+    },
+    {
+      "title": "Распадская",
+      "year": 2021,
+      "file": "RASP_RX_2021",
+      "short": "RASP",
+      "color": "#1399a3"
+    },
+    {
+      "title": "Роснефть",
+      "year": 2021,
+      "file": "ROSN_RX_2021",
+      "short": "ROSN",
+      "color": "#1399a3"
     }
   ]
 }

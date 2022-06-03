@@ -1,0 +1,1787 @@
+[
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7834
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7918
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7896
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7941
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8255
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8188
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8032
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8054
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7969
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8076
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8054
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.807
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7935
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7867
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7919
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7912
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.787
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7924
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "01/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.777
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7838
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7825
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7856
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7963
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7921
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8022
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8001
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7925
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7972
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.809
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8131
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.81
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.811
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8087
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8036
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8054
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7976
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7789
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.778
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "02/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7818
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7894
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8059
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7985
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7956
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8064
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8172
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8131
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8144
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8132
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.814
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8136
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8146
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.807
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8068
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.811
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8062
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8077
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8118
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8103
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8045
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8143
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "03/31/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8143
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8136
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8139
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8127
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8105
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8385
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.84
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8284
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8241
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8254
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8288
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.835
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8266
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8209
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8187
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8191
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8194
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8408
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.872
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8542
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8408
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8451
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "04/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8248
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.823
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8374
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8422
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8435
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8253
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8469
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8329
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8329
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8323
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8325
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8346
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.826
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8224
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.821
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8365
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8192
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8273
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8216
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8326
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "05/31/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8602
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8567
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8487
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8473
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8443
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8477
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8434
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8378
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8341
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8386
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8422
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8504
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.844
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8461
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8436
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8487
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8491
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8656
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8596
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8627
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8684
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.863
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "06/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8694
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8678
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.874
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.878
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8665
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8662
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.825
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8339
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8346
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8279
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8213
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8156
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8115
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.782
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7877
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8049
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7981
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7963
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8008
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7997
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8101
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8196
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "07/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8125
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8221
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8271
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8237
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8292
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8212
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.824
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8329
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8418
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8398
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8327
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8305
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8228
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8214
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8222
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8264
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8284
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8293
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8277
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.823
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8278
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8248
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "08/31/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8212
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8232
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8207
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8191
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.815
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.817
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8189
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.804
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.808
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.817
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8114
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8207
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8269
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8175
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8083
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8158
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8156
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8108
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8111
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.811
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.806
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8068
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "09/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8098
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.811
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8045
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8124
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8037
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8083
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8078
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.815
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8146
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.816
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8365
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8379
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8409
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8437
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.838
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8225
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8321
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8305
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.843
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8318
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8277
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "10/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8169
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8223
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.82
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8162
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8237
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8194
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8228
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8144
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.82
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8113
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8148
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8177
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8131
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8113
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.806
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.8058
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7957
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7989
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7917
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7605
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7617
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "11/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7367
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7462
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7604
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7556
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7475
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7634
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7523
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7438
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7376
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7115
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7188
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7284
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7391
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7322
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7242
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7276
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7167
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7188
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7189
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7226
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7204
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7301
+  },
+  {
+    "<TICKER>": "HYDR RX",
+    "<PER>": "D",
+    "<DATE>": "12/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 0.7435
+  }
+]

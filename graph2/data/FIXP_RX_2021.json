@@ -1,0 +1,1472 @@
+[
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 716.90002
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 717
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 715.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 704.90002
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 697.90002
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 709.20001
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 716
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 716.29999
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 718
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 728
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 732.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 739.90002
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 738.70001
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 739
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 741.09998
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "03/31/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 737
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 743
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 739
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 724.29999
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 713
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 704.40002
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 716.79999
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 720
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 735.29999
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 731.09998
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 725
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 730.90002
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 727.90002
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 732.59998
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 738
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 733
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 730
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 717
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 713.8
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 710.3
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 706
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 707.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "04/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 704.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 703
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 702.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 698.2
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 691.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 708.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 699.2
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 699.3
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 679.2
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 685.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 675
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 682
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 684.6
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 662.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 663.7
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 664.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 653.2
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 640
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 612
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 598
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "05/31/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 622.7
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 623.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 629.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 641
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 628.6
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 625
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 613.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 619
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 618.2
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 616
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 613.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 612.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 610.7
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 664.2
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 659
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 666.8
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 668.8
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 675.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 671.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 662.2
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 665.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 649
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "06/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 637
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 645.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 649
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 643.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 637.8
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 637.6
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 628
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 633.8
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 648.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 632.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 617.3
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 617
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 605
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 602
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 601.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 587.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 576.6
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 573.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 565.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 549.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 547.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 555
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "07/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 567
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 555.3
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 556
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 561.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 574
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 570.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 581.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 590.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 584
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 610
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 629
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 642.7
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 670
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 665.7
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 683.6
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 674.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 662
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 649
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 664.8
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 676.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 685.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 680
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "08/31/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 674.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 668.2
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 667.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 657.6
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 648.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 637.3
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 652.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 628.6
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 642.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 602.8
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 610.7
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 604.3
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 612.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 622.3
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 615
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 609.3
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 610
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 628.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 643.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 638.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 668.6
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 662.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "09/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 647.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 655
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/04/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 638.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 647.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 652.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 655
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 665.2
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 658.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 649
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 644.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 640.3
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 645
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 632.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 630.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 627
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 629.6
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 612.7
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 619.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 609.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 615
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 609.8
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "10/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 620.8
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 630.6
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 616.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 606.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/05/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 597.3
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 598.6
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 600.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 601.2
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/11/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 619.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/12/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 610.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 601.6
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 593
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 586.2
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/18/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 576.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/19/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 583.8
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 582.1
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 564.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 554.8
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/25/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 571
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/26/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 555.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 569
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "11/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 574.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/01/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 585.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/02/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 578.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/03/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 579.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/06/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 570.8
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/07/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 584.6
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/08/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 599.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/09/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 604.4
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/10/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 592
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/13/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 591.2
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/14/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 579
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/15/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 566.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/16/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 563.9
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/17/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 559.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/20/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 558
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/21/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 560
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/22/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/23/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 541
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/24/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 544.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/27/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 541.6
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/28/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 539.5
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/29/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 550
+  },
+  {
+    "<TICKER>": "FIXP RX",
+    "<PER>": "D",
+    "<DATE>": "12/30/21",
+    "<TIME>": "00:00",
+    "<CLOSE>": 547.5
+  }
+]
